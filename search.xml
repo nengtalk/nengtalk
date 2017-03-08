@@ -50,7 +50,20 @@ repo:
 </li>
 </ol>
 <h2 id="通过DNSPOD-进行国内外的分流"><a href="#通过DNSPOD-进行国内外的分流" class="headerlink" title="通过DNSPOD 进行国内外的分流"></a>通过DNSPOD 进行国内外的分流</h2><p>DNSPOD 可以自动将国内和国外的访问进行分流，首先你需要把你的个人域名根据服务商的说明解析到DNSPOd，然后在DNSPOD内添加两条CNAME，分别对应国内和国外就可以了。<br><img src="https://cl.ly/1I3p1F3y1T3s/TIM%E6%88%AA%E5%9B%BE20170308143940.png" alt="DNSPOD setting"></p>
-<h2 id="提交搜索引擎-Google-amp-Baidu"><a href="#提交搜索引擎-Google-amp-Baidu" class="headerlink" title="提交搜索引擎(Google &amp; Baidu)"></a>提交搜索引擎(Google &amp; Baidu)</h2><h3 id="Google-搜索"><a href="#Google-搜索" class="headerlink" title="Google 搜索"></a>Google 搜索</h3><p>访问<a href="https://www.google.com/webmasters/tools/home?hl=zh-CN" target="_blank" rel="external">Google Search Console</a>，输入自己的域名后把验证文件复制到source文件夹内上传并验证。</p>
+<h2 id="提交搜索引擎-Google-amp-Baidu"><a href="#提交搜索引擎-Google-amp-Baidu" class="headerlink" title="提交搜索引擎(Google &amp; Baidu)"></a>提交搜索引擎(Google &amp; Baidu)</h2><h3 id="Google-搜索"><a href="#Google-搜索" class="headerlink" title="Google 搜索"></a>Google 搜索</h3><ol>
+<li>访问<a href="https://www.google.com/webmasters/tools/home?hl=zh-CN" target="_blank" rel="external">Google Search Console</a>，输入自己的域名后把验证文件复制到theme下的source文件夹内上传并验证。</li>
+<li>安装sitemap 生成插件<br><code>npm install hexo-generator-baidu-sitemap --save</code></li>
+<li>在_config.yml 中添加配置代码<br><code>sitemap:
+path: sitemap.xml</code></li>
+<li>提交sitemap</li>
+</ol>
+<h3 id="百度搜索"><a href="#百度搜索" class="headerlink" title="百度搜索"></a>百度搜索</h3><ol>
+<li>访问<a href="http://zhanzhang.baidu.com/linksubmit/url" target="_blank" rel="external">百度站长工具</a>, 输入自己的域名完成验证。</li>
+<li>安装sitemap 生成插件<br><code>npm install hexo-generator-sitemap --save</code></li>
+<li>在_config.yml 中添加配置代码<br><code>baidusitemap:
+path: baidusitemap.xml</code></li>
+<li>提交sitemap</li>
+</ol>
 <h2 id="安装主题及相关配置"><a href="#安装主题及相关配置" class="headerlink" title="安装主题及相关配置"></a>安装主题及相关配置</h2><p>在官方的<a href="https://hexo.io/themes/" target="_blank" rel="external">主题仓库</a>中有很多制作精美的主题，比如大名顶顶的<a href="http://notes.iissnan.com/" target="_blank" rel="external">Next</a>等等，安装方法和使用说明在各自的主页中也都有详细的介绍。我现在使用的主题是<a href="https://material.viosey.com/" target="_blank" rel="external">Material</a> ，制作精美，风格也深得我心。</p>
 <p><code>$ cd your-hexo-site/themes
 $ git clone https://github.com/viosey/hexo-theme-material.git material</code></p>
@@ -63,6 +76,7 @@ $ git clone https://github.com/viosey/hexo-theme-material.git material</code></p
 <li><a href="https://hexo.io/zh-cn/" target="_blank" rel="external">Hexo 官方网站</a></li>
 <li><a href="http://tengj.top/2016/02/20/hexo%E5%B9%B2%E8%B4%A7%E7%B3%BB%E5%88%97%EF%BC%9A%EF%BC%88%E6%80%BB%E7%BA%B2%EF%BC%89%E6%90%AD%E5%BB%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E5%88%9D%E8%A1%B7/" target="_blank" rel="external">hexo干货系列：（总纲）搭建独立博客初衷</a></li>
 <li><a href="https://material.viosey.com/" target="_blank" rel="external">Material theme</a></li>
+<li><a href="http://svend.cc/posts/22980/" target="_blank" rel="external">Hexo系列：（四）Hexo博客提交百度和Google收录</a></li>
 </ul>
 ]]></content>
       
