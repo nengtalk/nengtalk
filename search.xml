@@ -114,6 +114,1026 @@ $ git clone https://github.com/viosey/hexo-theme-material.git material</code></p
     </entry>
     
     <entry>
+      <title><![CDATA[在海外无限制使用网易云音乐]]></title>
+      <url>http://nengtalk.com/2016/01/23/netease-music-abroad/</url>
+      <content type="html"><![CDATA[<p>好像已经有一些日子没写东西了，那些基本的markdown语法又有些遗忘了……sigh……</p>
+<p>在这里整理下可以在海外使用网易云音乐的一些方法吧，做个备忘。</p>
+<p>据说网易有一个专门检测是否是大陆IP地址的服务页面<br><a href="http://ipservice.163.com/isFromMainland" target="_blank" rel="external">http://ipservice.163.com/isFromMainland</a></p>
+<ul>
+<li>通用方法</li>
+<li><ol>
+<li>购买付费会员（8元/月）</li>
+<li>一个通用方法，设置代理，找一个国内代理服务器和端口设置一下。<br> <a href="http://cn-proxy.com/" target="_blank" rel="external">中国ip地址</a></li>
+<li>Unblock Youku的PAC文件<br><a href="http://pac.uku.im/pac.pac" target="_blank" rel="external">http://pac.uku.im/pac.pac</a></li>
+<li>DNS<br> 192.241.222.103<br>4.<a href="https://chrome.google.com/webstore/detail/unlimited-free-vpn-hola/gkojfkhlekighikafcpjkiklfbnlmeio" target="_blank" rel="external">Unlimited Free VPN - Hola</a><br>不过速度非常不能令人满意</li>
+<li>Chrome的应用商店里面还有一个<a href="https://chrome.google.com/webstore/detail/unblock-netease-music/okjlonpifkjbibipgioibfecnikmhfil" target="_blank" rel="external">Unblock NetEase Music</a> 也是可以试一下的</li>
+</ol>
+</li>
+<li><p>路由器端<br>  <a href="https://github.com/felixonmars/dnsmasq-china-list" target="_blank" rel="external">dnsmasq-china-list</a></p>
+</li>
+</ul>
+<p>Reference List<br><a href="https://www.seavia.com/share/oversea-163-cloud-music-qq-music.html" target="_blank" rel="external">海外破解网易云音乐和QQ音乐的版权限制</a></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 网易云音乐 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[新年快乐]]></title>
+      <url>http://nengtalk.com/2016/01/01/happy-new-year-2016/</url>
+      <content type="html"><![CDATA[<p>又一次送别了旧年的离开，又一次迎来了新的一年。</p>
+<p>这已经是自己的第26个元旦了吧，第一次在异国他乡，感受着不同文明之间带来的碰撞，感受着不同的肤色不同国籍的人们之间的交流与融合。世界真的是很奇妙。</p>
+<p>想来来到澳村已经差不多快两个月了，一年的六分之一了，时间走的还真是快。不过至少对这边的生活有了些基本的了解，对自己的接下来的规划也算是有了初步的安排吧。不过终归是还有一个很重要的变数，生命中还缺少一颗关键的棋子，那颗也许会改变命运的棋子。</p>
+<p>回首2015，总感觉像是在人生中最宝贵的年景被我肆意挥霍了，可能留下了太多的遗憾，或者说自己始终在心底有个坎难以逾越，虽然可以笑看众生，却无法直视自己的内心。</p>
+<p>年底，来到了土澳，换了一个新的环境，也算是可以重新扬帆起航。未来是个什么样也许并未可知，但至少算是有个一个明确的前进的方向了吧，还是希望自己能够保持自我，明年再写新年快乐的时候能够无愧于心吧。</p>
+<p>再见，2015；</p>
+<p>你好，2016。</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 新年快乐 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[不同地区机械键盘的轴体的不同名字整理]]></title>
+      <url>http://nengtalk.com/2015/12/25/mechanical-keyboard-switches-names/</url>
+      <content type="html"><![CDATA[<h1 id="各地区的轴体名字叫法"><a href="#各地区的轴体名字叫法" class="headerlink" title="各地区的轴体名字叫法"></a>各地区的轴体名字叫法</h1><h2 id="最近有点对机械键盘长草，搜集资料过程中在不同地区的各种名字之间切换，有点绕。整理一下，顺便练习一下用markdown画表格。"><a href="#最近有点对机械键盘长草，搜集资料过程中在不同地区的各种名字之间切换，有点绕。整理一下，顺便练习一下用markdown画表格。" class="headerlink" title="最近有点对机械键盘长草，搜集资料过程中在不同地区的各种名字之间切换，有点绕。整理一下，顺便练习一下用markdown画表格。"></a>最近有点对机械键盘长草，搜集资料过程中在不同地区的各种名字之间切换，有点绕。整理一下，顺便练习一下用markdown画表格。</h2><table>
+<thead>
+<tr>
+<th style="text-align:center">中文</th>
+<th style="text-align:center">英文</th>
+<th style="text-align:center">美亚称法</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">青轴</td>
+<td style="text-align:center">MX Blue</td>
+<td style="text-align:center">Click Action</td>
+</tr>
+<tr>
+<td style="text-align:center">黑轴</td>
+<td style="text-align:center">MX Black</td>
+<td style="text-align:center">Linear Action</td>
+</tr>
+<tr>
+<td style="text-align:center">茶轴</td>
+<td style="text-align:center">MX Brown</td>
+<td style="text-align:center">Tactile Action</td>
+</tr>
+<tr>
+<td style="text-align:center">红轴</td>
+<td style="text-align:center">MX Red</td>
+<td style="text-align:center">Soft Linear Action</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 键盘 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[若批评无意义，则赞美无自由————不止谈谈氢OS]]></title>
+      <url>http://nengtalk.com/2015/07/05/criticize-and-praise-about-h2os/</url>
+      <content type="html"><![CDATA[<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       好长时间没有写点东西用来扫地了，因为这个世界实在是太危险了，而且环境也很恶劣，扫了等于白扫。但扫地这件事就像一场旅行，重要的不是目的地，而是沿途的风景和看风景的心情。做一个现实的人，似乎与这个欲望过剩的时代不太合拍。默默的用了几周的氢OS，从第一版至今，看着这个ROM一点点的成长，总是有很多话想说说。2015年下半年的第一天，我想和这个世界谈谈。</span></span></span>&nbsp;</div></p>
+<p><br><a id="more"></a></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       想说的太多，整理了半天逻辑顺序也没缕明白，就想到哪说到哪吧。</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">//关于头条新闻</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       在谈一加的营销之前，先说说头条新闻吧。看到太多的人说一加不会做别的就会营销了，每天头条新闻里都好几条关于一加的新闻。其实呢，这恐怕完全归功于头条新闻的“高大上”的推荐了，因为你越关注，所以头条新闻推的越多，导致你越烦，对于一加营销推广的怨言也就越多。我不知道这到底是谁的过错，让一些加油认为满世界都是一加的宣传。要是一加真能做到这种水平的宣传，满世界就都是一加了。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       个人而言不是很喜欢这种针对于个人兴趣的推荐，虽然贴近于你的兴趣，但会让你的视野变窄，让生活收到局限。或者说，很多推荐类的做得还不够好。</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">//关于一加的营销推广</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       这一块尽管一加做得很努力，但不知道是不是达到了他们预期的效果。一方面，尽管只有一部手机产品，但他们保持了这部产品在一年多的时间内相当稳定的热度，对于手机市场而言，这是非常难能可贵的。一加像是一个谦谦君子，不和其他的厂家撕逼打骂，安安静静的宣传推广它的产品，而且仿佛和每一家厂商都是友商，在他们的微博里不知给多少其他厂商打过广告了。最近半年，他们的工作成功也是显而易见的，聘请韩寒代言，线下推广一加的广告，发布年度TVC，再到氢OS的如期而至和一加降价，以及现在和未来的关于一加二代的宣传造势，酒香也怕巷子深，他们渐渐的扩大宣传范围，从微博阵地到IT公论的硬广，他们努力让更多的人知道一加这个品牌和他的产品。</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       有多少人经常抱怨附近的人都没听说过一加，但又抱怨一加天天只在营销呢？</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       话说回来，一加不是一家公益机构。</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">//关于一加手机1</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       一加一代是一款已经上市一年多的机器了。</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       尽管一代的配置在今天依然算不上落后，但不可否认已经存在了一些短板，不然也没有发布新机器的意义了。一加1凭借优秀的硬件和与Color OS以及CM的合作，走了一条和小米锤子不同的道路，通过硬件杀入了手机的红海，然后再去迅速完善自己的软件。也正是因为这样的一条与众不同的路子，一加才能够发展的如此迅猛。其实，对很多厂家而言，提供一年的质保服务，已经对得起售价了。再往后，看的就是厂商的良心了。</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       Color OS的停更，我个人以为有这样几个原因，第一，大家都很忙，Color的团队忙着自己家的几部手机的Color 2.1的更新，而一加这边又要全身心扑到氢OS的开发上；第二，更新得不到认可，每周的更新一释出，无论轻重好坏，论坛里会有一大片的谩骂之声，既然你不喜欢，那么更新也无意义，不如停掉；第三，更新维护是需要成本的，既然都不喜欢Color OS，那不如节省下这笔开发经费，把钱花在刀刃上。而且，斩断了氢OS的退路，开发团队势必要咬着牙硬上了。当然我也不同意一加的这个做法，让公测中的Color 2.0夭折，但这个项目停掉肯定有一加自己的考虑，符合更长久的利益，长痛不如短痛吧。顺便，一加海外版的氧OS也发出公告暂停了对一加1代的更新，全力投入到一加2的系统研发中，针对一加1的氧OS的更新将会在一加2发布之后到来。</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       得益于一加1的开放，他的生命周期哪怕是官方停止了对一加一的维护都不会结束，国外会有非常多的爱好者给一加1提供支持的。所以以后会看到CM13，CM14在一加上流畅的运行，像少年啦飞驰。</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">//关于一加手机2</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       相比某族刚刚9个月就发布了一款新旗舰，一加1和一加2的中间隔了快15个月了，在各大友商接连发布新机的时候，一加也只能靠着提前开始宣传推广来让人们看到一个更好的选择。提前一个半月官方开始主动爆料，从810到USB Type-C再到一加2的发布时间和指纹识别，一加好像是第一个在发布会之前就把这些东西曝光的厂商吧，不知道发布会的时候还会有什么可说的。顺便说一句810，官方给的退烧的解决办法是降频到1.8GHz，同时采用一些其他的独门绝技。具体效果如何，发布之后再见分晓吧。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       “这是我规划这个产品时，觉得最无趣的部分。”一加的产品经理张璇在回答“一加二代会用什么样的配置”时如是说。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="center"><span style="font-family: 微软雅黑;"><span style="font-size: large;"><img src="http://farm1.staticflickr.com/367/18816218994_15abff7953_b.jpg" alt=""><br></span></span></div></p>
+<p><div align="center"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       一加2上基于Android 5.1的氢OS和氧OS会作为国内和国外市场的出厂ROM，软硬结合的一加2想必会非常让人期待。</span></span></div></p>
+<p><div align="center"><span style="font-family: 微软雅黑;"><span style="font-size: large;"><img src="http://farm4.staticflickr.com/3803/18816218854_8755fde1f8_b.jpg" alt=""><br></span></span></div></p>
+<p><div align="center"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">//关于氢OS</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       自从发布会氢OS发布以来，氢OS获得了来自外界的广泛好评，氢视窗、去Dock栏、卡片短信、MD设计成为了氢OS的四大特色，给人留下了极其深刻的印象——上一个给人留下深刻印象的发布会发布的ROM应该还是锤子——印象中他们发布了一套拟物化的图标——从公布立项到发布用了一年半的时间，从发布到可刷又用了小半年的时间才慢慢成长为一个充满情怀的系统——相比而言一加从公布立项到发布只用了半年多的时间，可能是少了一年的时间把更多的图标画出来吧。关于氢OS的争论有好多，不管是去掉Dock的优劣还是氢视窗33%自由度的给予。关于对氢OS的批评与赞美，赞美来自于外界，批评来自于内部——因为内测方案的实施，因为低完成度的测试版的泄露，也因为用户对于氢OS的更多的期待。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       发布的四个版本每版其实都有很大的进步，耗电和功耗有了很大的改进，一些功能进行了充分的测试之后回炉修改，内测组提出的bug得到了修正，一些意见和建议也得到了采纳，其实可以说是按部就班，但只是不管是内测组还是广大的加油对氢OS的期待都太多太重，不知道他们是不是承受不来。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="center"><span style="font-family: 微软雅黑;"><span style="font-size: large;"><img src="http://farm1.staticflickr.com/463/19251148048_1756b01b72_b.jpg" alt=""><img src="http://farm4.staticflickr.com/3731/19251132790_ca9bedc0c1_b.jpg" alt=""><br></span></span></div></p>
+<p><div align="left"></div><br>&nbsp;</p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       模仿很容易，创新很难。加油们的需求很多，希望有Color OS的这个，希望有MIUI的那个，希望有Flyme的这个，希望有iOS的那个，但这些模仿和“保留”又算是什么创新呢？氢OS作为一个后起之秀，留给他出新的地方不多了，但他还是拿出了氢视窗、卡片短信、去Dock栏这三大创新，可以说是非常弥足珍贵了，至于其他的那些微创新，能做到好看好用，就已经非常不错了。比如说被大家广为诟病的快捷开关，上下左右一共四个方向，坦白的说从下方呼出对于单手操作而言更加的方便，就一定要为了避开和iOS相似而放弃这个好用的设计么？在Google和Apple都互相吸取借鉴的时代，符合自己风格理念的设计才是好的设计。</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="center"><span style="font-family: 微软雅黑;"><span style="font-size: large;"><img src="http://farm1.staticflickr.com/262/18818100013_0545fab4a9_b.jpg" alt=""><img src="http://farm1.staticflickr.com/456/19251133600_fb0d3d3e7c_b.jpg" alt=""><br></span></span></div></p>
+<p><div align="center"><span style="font-family: 微软雅黑;"><span style="font-size: large;"> </span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       的确，氢OS还存在着很多的不足，还有一些功能的缺失，内测阶段的节奏看起来有些缓慢，但有些东西是欲速而不达的，BUG反馈区两千六百多个帖子，每个帖子都有工作人员的回复，每周的更新也都会解决大量的bug，提高系统的稳定性和流畅性，让氢OS尽快的成熟起来，不只是我们每个加油，官方更是希望这一天早日到来。氢OS的成功，将会是影响一加手机销量的重要砝码。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       毕竟，一加1和一加2之间会有很多区别，比如指纹功能，所以氢OS的开发肯定会是双线进行，但基础功能上肯定是通用的，所以在内测阶段把这些基础功能做好非常的重要，也许一加会为了把一些特色的功能留到发布会上去讲，比如音乐，比如相机，比如调调，但这些是我们所不能改变的，达则兼济天下，只有让一加的手机卖的好，钱赚的多，才能指望他们给用户带来更好的体验与服务。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       看得见的价值、应满足的需求、摸得到的情感，和一点点，超出期待的惊喜，这才是一加应该带给我们的。</span></span></div><br>&nbsp;</p>
+<p><div align="left"></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">//关于内测组</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       马上氢OS就要第二次招募内测了，在这里也顺便说说内测组里的感受吧。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       第一批内测，将近250人左右的规模，很多人都很积极的为氢OS献计献策，认真反馈bug，也看到很多非常较真的加油，真的是很好的履行了一个内测组成员的职责，但也有部分加油不能正确的看待自己的位置，将氢OS说的一无是处，看不到氢OS一丝的进步，不光令那些工作人员，其他的内测成员看到也很寒心。既然选择加入内测组，首先应该要明确自己的责任，和一加的价值观尽量保持一致，齐心协力才能提高效率，才能共同打造出一个值得骄傲的系统。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">//关于一加</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       一加是一家小公司，尽管他有着远大的抱负，但他面对着严峻的事实。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       说到小公司，不得不想到另外一家一直以小公司自居的企业——魅族。从当年的一款机器打天下到现在的背靠阿里好乘凉，魅族一直说自己是一个小公司，相比较而言，不论是销量还是人力物力财力，一加可能连小公司都算不上了。一加国内外加一起不过也才卖了150W台而已。尽管自己的有些想法很美好，但实现起来很骨感，没有钱，没有人，说到底可能还是没有钱吧。所以一口吞不下一个胖子，要改变现实，只能1步1步来。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"></div></p>
+<p><div align="left"></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">//关于有意义的批评</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       最后要回归这篇帖子的主题了，有意义的批评。批评和漫骂是完全的两个概念，我们提倡的是以德服人和以理服人，要有理有据，使人信服。打蛇打七寸，批评要说到点子上。一加的好多工作人员都有在论坛，善意的批评和建议相信他们一定能够接受。而无谓的职责与骂言无助于事情的解决，坏了别人心情的同时更会坏了自己的心情。有人说一到网上就会容易动怒，克制会提高个人的修养。当然如果真的是无可救药的话，那么再怎么骂也没有什么意义，不如退避三舍。一个和谐的论坛环境才能吸引人来，整日乌烟瘴气的话，人会越来越少的。有多少“大神”都因为不愿意听论坛里的污言而选择了离开。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       可以有批评的自由，但更要有意义的批评，良药也许苦口，但切中要害的批评才能治本。多一些真心的交流，少一些无意义的灌水，没有了真东西，那些积分和等级又有什么意义呢？</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">//关于更自由的赞美</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       一步到位的虚荣、锦上添花的评价，都不是我们想要的。这句话曾经深深的打动了我，从去年年初了解到这个品牌，到去年秋天入手了一加，我感到非常的幸运。茫茫机海中，我做了一个非常明智的选择。满足了对一个手机的需求，看到了一个手机厂商一步一步的成长，宠辱不惊，我喜欢这种态度，我为我的选择而骄傲。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       那些合理与明智的东西，我们把它叫做“理性美”</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       理性美，就是真魅力。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       我想说，我喜欢这种魅力。</span></span></span>&nbsp;</div></p>
+<p></p>
+<p><div align="left"></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       若批评无自由，则赞美无意义</span></span></div></p>
+<p><div align="left"><span style="font-family: 微软雅黑;"><span style="font-size: large;">       若批评无意义，则赞美无自由</span></span></div></p>
+<p><div align="left"></div><br>p.s.解释下8小时亮屏，想看看日常使用的亮屏时长，开了屏幕常亮（设置里设置为30分钟），亮度为自动，正常频率使用QQ、微信、微博等常用应用，没玩游戏，接打两个电话的测试结果</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 数码 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 一加 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[望梅止渴与远水解不了近渴]]></title>
+      <url>http://nengtalk.com/2015/07/05/opinions-about-h2os/</url>
+      <content type="html"><![CDATA[<p><span style="font-family: 微软雅黑;"><span style="font-size: medium;"> 今天就要公布内测名单了，写了好几百字的申请感言，不知道能不能出现在名单里，想想的确是有些小期待。</span></span><a id="more"></a></p>
+<p><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: small;">//对于氢OS的看法和估计<br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: small;"><br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       说句实在话，对氢OS的设计理念非常的赞同，也非常的期待，但是对氢OS的完成度也有一定的预判。毕竟，在发布会当天的帖子里他们说到目前完成度只有想象中的五分之一，毕竟在发布会时候出现的计算器还是原生的样子，毕竟昨天听到虎哥在电台里说为了氢视窗还推翻了一个多月的工作重做，毕竟在填写内测申请的时候官方郑重声明了要准备一台备机。<br>满打满算，抛去做的无用功，氢OS的第一版出来也就是半年的时间。半年出来的第一版，又怎么可能做到尽善尽美呢，iOS第一版的时候连短信功能都没有，安卓从1.5发展到现在的5.1又用了多长的时间。MIUI在最开始发展的时候基于CM简单做了几个应用就开始赶鸭子上架，那个时候的迭代让人感觉每周都有耳目一新的新东西，虽然优化很糟糕但也是很有趣，而锤子的ROM在发布会跳票之后又拖了三个多月才拿出了第一版UI，同样是基于CM。<br>对于氢OS而言，它站在巨人的肩膀上，有Google趋于成熟的MD设计风格，有海外团队开发的基于AOSP的系统底层，有顶尖的设计团队的协助，才让一加能在这么短的时间内能够拿出他们的作品。也许，他们做到的亮点虎哥已经在发布会上都已经说了，剩下的可能还是原生的样子；也许，现在还是咦外观的设计为主，还没有对底层做太多的优化，有些地方会有些卡顿，但一口吞不下个胖子，终归，饭要一口一口吃，路要一步一步走。步子迈大了，容易扯着蛋。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: small;">//内测的角色</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: small;"><br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       之所以会采用这种小范围的内测方法（其实也不少了，发布会110（论坛+贴吧），论坛选100，好像刷机精灵还有30，加一起小250人了），为的更有利于内测者把发现的bug及时反馈给开发人员，放出去2000个名额，那开发人员估计每天除了看bug反馈就干不了别的了，而且2000人反馈的bug和250人反馈的bug是一样的。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       如果能够拿到内测资格，这肯定不仅仅是一种荣誉，更是一种责任。我觉得不应该是刷上之后或者马上贴图招摇，秀一下自己的氢OS，或者因为出现一些FC卡顿或者死机什么的就破口大骂。作为一个内测者，要做的不仅仅是尝鲜，更应该及时的将发现的bug和其他问题准确客观的反馈给开发人员，帮助他们把氢OS做的越来越好。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       既然选择了内测，就要努力的坚持下去。如果只是为了抢先感受一下氢OS，用了两天不爽又刷回了原来的系统，那么好好的一个内测名额可能就会这么浪费掉了。自己做的饭，咬着牙也要吃下去。</span></span><!--more--><!--more--><!--more--></p>
+<p><span style="font-family: 微软雅黑;"><span style="font-size: small;">//氢OS的归属感的理解</span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       </span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br>说起氢OS的归属感，或者说一加的归属感，我觉得目前来说其实是很低的，因为一加的太过开放。因为有太多的ROM可以选择，所以总会是欲求不满。稳定的你嫌他不更新，天天更新的你嫌他不稳定，官方的你嫌他太臃肿，民间的你嫌大神不给力，国外的你嫌不人性，国内的你嫌太花哨。因为有太多的选择，所以在选择中迷失了自己。这个ROM不好用，那就换一个别的，那个ROM不好用，那就再用下一个。你巴不得希望有MIUI的功能丰富性和主题多样性+Color的相机和音效+CM的流畅和精炼＋Flyme的清新设计，但那样做出来的不是一个自己的系统，是一个东拼西凑来的四不像。模仿很容易，创新很难，但氢OS选择了这条艰难的路，所以，如果爱，请深爱。<br></span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: small;">//远水解不了近渴与望梅止渴，画饼充饥</span></span></p>
+<p><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       还是那句话，如果氢OS的完成度足够高，高到可以开放公测，那一加没必要背着现在的这些骂名，选择内测是为了有一个更好的公测。一加已经画好了一张大饼，已经指出了一片梅林，但也许他们才刚刚揉好面，刚刚浇下水，但梦想和目标是一定要有的。怀胎十月，哪吒在娘胎里呆了三年呢，像氢OS这样的早产儿更需要大家的关心与呵护。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       “我都已经等了好几个月了”“我等不下去了”“还得等”，是啊，光等都已经很累了，可是你们不知道开发这个新东西比干等着更为煎熬么，你们在等着，他们在加班，你们在等着，他们在熬夜干活，氢OS也许是你们手中一刷而过的ROM，但那是那些一加人的心血。大饼也好，梅林也罢，那都不是空谈，他们在路上。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br></span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       最后希望出现在内测名单里的加油们能够帮助氢OS做的越来越好。</span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br></span></span></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 数码 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 一加 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[一加氢OS发布会前的文案海报解读]]></title>
+      <url>http://nengtalk.com/2015/07/05/interpret-h2os-posters/</url>
+      <content type="html"><![CDATA[<p>很多东西之前都写在了论坛上，陆续搬回来一些吧。存档留个纪念。一加氢OS发布会前的文案海报解读<a id="more"></a></p>
+<p><img src="http://farm4.staticflickr.com/3784/18816945743_28a1a4e62c_b.jpg" alt=""><br>一、也读颜之大卫<br><img src="http://farm1.staticflickr.com/271/19251483139_fec2901819_b.jpg" alt=""></p>
+<p>距离一加氢OS发布还有一个星期，一加开启了对氢OS的新的一波预热，这打头阵的，便是今天的这幅饱含深意的大卫像。</p>
+<p>仔细端详这幅图，其实我们可以看到这幅图中的五个方面：大卫的半头像、一加的团队剪影、背景线条、留白以及文字说明。</p>
+<p>首先，说说大卫的半头像，这个之前已经有加油进行了解读（<a href="http://www.oneplusbbs.com/thread-761023-1-1.html），作为艺术史上最为杰出的作品之一，作为力与美的代表，一加选择以此作为第一天的宣传，一方面表达了氢OS向这幅作品的致敬，也表达了想与其比肩，在安卓的系统ROM里做到极致的美好愿景，另一方面，也表达了一加要在氢OS的彰显力与美，用美好的设计打动人。" target="_blank" rel="external">http://www.oneplusbbs.com/thread-761023-1-1.html），作为艺术史上最为杰出的作品之一，作为力与美的代表，一加选择以此作为第一天的宣传，一方面表达了氢OS向这幅作品的致敬，也表达了想与其比肩，在安卓的系统ROM里做到极致的美好愿景，另一方面，也表达了一加要在氢OS的彰显力与美，用美好的设计打动人。</a></p>
+<p>这幅图中只是大卫的半头像，作为头像最重要的一部分——眼睛却并没有出现，在眼睛部位的是一加的工作人员的剪影，也正是因为他们的付出与努力，才能把一个优秀的系统带给用户，把美的享受带给用户。他们就是大卫的眼睛，不仅仅是临摹，更会散发出自己的光芒。感谢他们的付出，对他们致以最高的敬意。</p>
+<p>第三，背景的线条，寥寥几笔，却是氢OS的最基本的语言，勾勒出氢OS简洁纯粹的本质，体现出氢OS的深厚的设计功底和他们对艺术的生活家的理念的追求。</p>
+<p>第四，留白。大卫的半头像只是表面，能看到的只是表面的美，只是颜值的高，设计在大脑部分的留白了，这并不意味一加只有颜值，正相反，氢OS要表现的正是这种由内而外的美丽，而且，氢OS会更有头脑，独具一格的头脑，外观只是第一步，内容和功能更为重要。颜值背后，才是最美的。</p>
+<p>第五，文字。颜，显而易见，作为第一天的主题，意在表达氢OS将有由内而外的美丽；还有七天，接下来，氢OS的预告海报里还会给我们带来哪些惊喜呢？拭目以待吧</p>
+<p>刘作虎在微博中评论到，氢OS不想取悦所有人，我希望它是一个让人好恶分明的系统。要么爱，要么讨厌，绝不要仅仅是喜欢。<br>不得不让人想起一位一加员工在评价一加天气时候说过的一句话，一加天气可能将是一加第一款能够强力筛选用户的产品。其实，对于用户和品牌来说是一个互相选择的过程。一年来，一加作为一家刚刚起步的公司，在前进的道路上有很多妥协，他们想尽量满足每个人的诉求，却没有将自己的追求表达的淋漓尽致，终于，他们迎来了这个机会，也许并不是一些人眼中的“这个一定要有，那个一定要有”，但这是那些一加人的追求，是一加对于生活的艺术家的理解。</p>
+<p>二、论破与立</p>
+<p><img src="http://farm1.staticflickr.com/478/18817041413_c3ca3f4df6_b.jpg" alt=""></p>
+<p>今天，距离5月28日，还有六天<br>今天，一加放出了主题为“破”的宣传海报，不破不立<br>今天，一加天气获得升级，版本号0.9.83，更新亮点“你要的插件”<br>先说这幅海报，保持了一加一贯的高水准，精致简洁而巧妙，图有尽而意无穷。<br>安卓绿的小机器人，可惜却长成了苹果的样子，而且有的只是苹果的影子，打下了苹果的烙印，而且手中还不忘再拿着一个苹果。这情景是何等的熟悉，圆角矩形的图标，统一的逻辑设计，拙劣的外观模仿，甚至到发布会PPT的风格和主讲人的穿着，无不没有苹果的影子。也许是由于国人对于苹果的狂热，也许是因为曾经的Android没有成熟的设计规范，总之，现如今，且不说一个符合安卓设计规范的ROM，连国产的符合规范设计的应用都屈指可数。<br>是的，这一切应当进行改变，这“苹果”们的困局，需要有人来打破。而打破这一重担，被一加接了过来。<br>不破不立，但是破不容易，立更不容易。<br>所谓破，就要改变人们固有的思维习惯，改变人们的审美理念，彻彻底底的做一个变革，和那些苹果式的设计说再见，去回归原有的谷歌的设计理念，去遵循安卓的设计规范，做一个彻彻底底的Android的ROM。<br>所谓立，做一个有特色的安卓系统，做一个优秀的安卓系统，相信这是一加一如既往的追求，2014年锤子拿走了极客公园的“最佳用户体验奖”，这羡煞了刘作虎，他是多么希望能在2015年的时候拿到这个奖，让一加能够由里及外，从硬到软都做都极致。<br>可是，这其中，会遇到太多太多的阻力，会有太多太多的挑战。</p>
+<p>今天的一加天气的更新正好说明了这一点。一加将天气这个应用提前单独放出来是非常明智的，通过这个应用可以提前试探用户对于这套全新设计的意见，天气应用的反馈也不难猜测，知乎里好评一片，论坛里骂声一片；极客们好评一片，普通用户们反应平平，而且他们在持续一直不断的要求可能一加本不在意的桌面插件。<br>今天一加兑现了桌面插件，虽然说是“你要的插件”，但却依然是满满的“氢”风格，但遇到的阻力，甚至于可能超出了开发团队的预料，以至于今天出现在论坛的ROM开发人员的身影远远高于往日，他们在努力为天气，为氢OS正名，但他们也许在这时才真正感觉到了破的困难，感到了立的艰辛。<br>创新永远是困难且不被理解的，模仿很容易，创新很难。只是一味的满足用户的需要，满足用户的要求，显然这样是无法做出一个特立独行的ROM的，因为他们想要的只是他们看到的，这个系统的这个做的好，那个应用的那个功能做的好，什么都“一定要有”也许只会做出一个大杂烩，也许好吃，却无法回味。</p>
+<p>最后，既然已经决定了摒弃“ctrl+C”“ctrl+V”，那么一加肯定会一如既往的走下去，坚持自己的“破与立”的道路，可以说，一加在选择自己的用户，在找寻和自己志同道合的伙伴。</p>
+<p>不想取悦所有人，只想让人好恶分明。<br>要么爱，要么讨厌，绝不要仅仅是喜欢。</p>
+<p>三、 病树前头万木春</p>
+<p><img src="http://farm1.staticflickr.com/471/19437648285_419a380607_b.jpg" alt=""></p>
+<p><span style="font-family: 微软雅黑;"><span style="font-size: medium;">沉舟侧畔千帆过，病树前头万木春。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">山穷水尽疑无路，柳暗花明又一村。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">枯处逢生，靠的是妙手回春的创新。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">说过了氢OS的“颜”，说过了氢OS的“神”，今天开始，大方向已经向氢OS的特色功能转移。预计接下来的几张海报，同样会在氢OS的各种特色功能上入手。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">今天的主要功能，一加手机在微博里已经给出了明确的提示，23年，短信。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">关于短信的宣传造势，其实很早以前就已经开始了，但具体氢OS会对短信做怎样的大手术，目前还是一个迷，对于垃圾短信，验证码通知等上面都会有独到的处理，与其说氢OS弱化了短信的功能，不如按今天的海报上所写，氢OS有信心给短信这个功能新生，让短信重新焕发光彩。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">再往远了说，氢OS会给国产ROM圈带来新的生机，让死气沉沉的安卓“iOS”圈充满新的力量。当然这个主题在昨天已经说过了。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">接下来的几张海报，估计一下，会有针对单手操作的海报，会有针对电话（骚扰电话类）的海报，也有可能有针对内置APP相关的海报，也不排除还会有针对氢OS通知中心的海报。那到底还会有哪些，我们拭目以待吧。</span></span></p>
+<p>四、 凭何得心又以何应手</p>
+<p><img src="http://farm1.staticflickr.com/561/19431365252_d287fe516d_b.jpg" alt=""></p>
+<p>距离氢OS发布会还有四天。<br>一加发布主题为“得心应手”的宣传海报。一加手机官微解读“解放你的双手！”，刘作虎解读“让大屏操作更有效率。”ROM官方人员@Danco的宣传点则落在了推送通知上，希望掌控自己的生活。</p>
+<p>正如昨天的解读贴所说，一加的宣传海报已经开始转向了对特色功能的宣传，今天的海报也印证了昨天的一些预言——一加特色单手操作以及一加的创新的消息通知管理。<br>两项功能虽然好猜，但是具体是怎么实现的却不得而知，这些恐怕就得等到发布会上再去揭晓了，大胆猜测一下，把操作区域部分挪出屏幕之外也未尝不可，毕竟图中的手便已经被选中，移动甚至部分移出了右上角，移到了一加本来的位置。不过关于消息中心的话，还是有一点点线索可查，在氢OS的泄露图中，有几张图的左上角有显示数字脚标1或2，也许是重要的通知实时显示，而不重要的通知统一收起只显示数目吧，大家也可以猜猜那些数字代表着什么。</p>
+<p>至于图上还有什么隐喻的话，也许因为图不是很清楚，也不太再好猜测，从一加图标中伸出的手，到底是谁在掌控谁，什么掌控什么呢，下面的两个小人和那些数字又会代表着些什么呢，还需要拭目以待吧，等氢OS发布之后这些便会大白于天下了。</p>
+<p>只希望凭独树一帜的设计，别出心裁的功能和酣畅淋漓的体验得加油之心，应加油之手。</p>
+<p>最后，生活要掌控在自己手中。</p>
+<p>期待明天的海报。</p>
+<p>五、 山容秀丽，海纳美好</p>
+<p><img src="http://farm1.staticflickr.com/510/18815160814_117e69ec0f_b.jpg" alt=""></p>
+<p><span style="font-family: 微软雅黑;"><span style="font-size: medium;">5月25日，距氢OS发布会还有三天</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">一加放出主题为“纳”的宣传海报，解读为山容海纳。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">海纳美好！<br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;">艺术需要被理解，也需要海纳各种美好，被欣赏。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">一个个优秀的app就是一件件艺术品，而氢OS就是展现它们的艺术馆～</span></span><br><span style="color: #333333;"><span style="font-family: 微软雅黑;"><span style="font-size: medium;">欢迎加入氢OS“艺术馆”。</span></span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;">（以上四条解读来自一加手机、</span><span style="color: #333333;">梨涡浅笑plus（一加PR）、一加手机蒋婕、刘作虎）</span></span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;"><br></span></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;">一加的这一系列宣传海报的设计都值得欣赏与回味，与氢OS的风格和一加的气质都极为相称，设计水准相当高，给设计师加鸡腿，账目记到我的账上~</span></span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;"><br></span></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;">不过说实话，这张海报的主题来的比我预计的早了一两天，不知道接下来还会有什么惊喜。</span></span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;"><br></span></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;">说到开放与包容，一加一直以来就具有这样的基因，不管是当初的硬件还是今天的软件，不管是互动还是服务，一加仿佛一直在秉承这种理念。</span></span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;">刘作虎说，大部分厂商搭建的生态圈都是封闭的，他们只希望自己在生态圈里玩，缺少开放和包容。氢OS更希望做一个开放和包容的平台。氢OS想作为为一个接口，或者说是一个超级大“商场”，搭建一个真正开放的平台。所以，”纳“这个主题在今天被提出，一加想海纳美好，想让自己成为一个艺术馆，用开放来招入优秀的APP的入驻。据传，一加已经在和很多APP厂商和企业进行沟通接洽，相信一加与这些第三方厂商的合作肯定不单单存在于定制这么一个简单的层面。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;">其实这个话题也可以和之前预测时候提到的一个话题归类，内置应用。氢OS在努力做到减少内置应用的数量，提到内置应用的水准，术业有专攻，既然内容不是他们的特长，那么就让专业的内容提供商来做就好了，而氢OS要做的就是给这些内容搭建一个优秀的平台。</span></span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;"><br></span></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;">有很多的人会说，现在就给予一加这么多的期待，会不会在发布会后会有巨大的落差，所谓飞的越高，摔的越惨。但是，从一加到目前为止放出的这些东西来看，又有什么理由不对氢OS充满希望呢，也许开始的几版会有很多不完善的地方，但思想更为有意义。</span></span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;"><br></span></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;">要么爱，要么讨厌，绝不要仅仅是喜欢。</span></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;"><br></span></span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><span style="color: #333333;">p.s. 海报中的四幅作品，除了梵高的自画像，中间的两幅实在是眼熟，但是想不起来了，后面那个好像是蒙德里安的作品吧，哪位大牛路过给科普一下，谢过。</span></span></span></p>
+<p>六、 删繁就简与领异标新</p>
+<p><img src="http://farm4.staticflickr.com/3942/19441894441_36e6b2ba49_b.jpg" alt=""></p>
+<p>5/26<br>距离氢OS发布会还有2天<br>一加放出主题为“简”的宣传海报，以简驭繁。<br>用最简单的元素来描绘复杂的世界！<br>简单却不失精彩。</p>
+<p>真的已经不太好说这海报是按照什么顺序发的了，也许真就是“哪个有感觉做的出来就发哪张”……<br>今天的“简”这个主题，相信在氢OS的设计和功能上都会有所体现。</p>
+<p>其实本文标题和海报主题不是那么特别匹配，完全是冲着郑公“删繁就简三秋树，领异标新二月花”这句诗去的，但是删繁就简与以简驭繁之间还是存在着很多的不同的，至少从字面上来讲，删繁就简，繁杂的部分都已经被去掉了，而以简驭繁呢，是用简捷了当的方法来处理复杂纷繁的事物。在这个纷繁的世界，当你不能去除繁杂的时候，以简驭繁体现的是更大的智慧。</p>
+<p>混乱是容易的，而简洁是极其困难的。（Danco）所以不要以为一个ROM的界面简洁，功能简单，操作容易就觉得这是团队在偷功减料，越是简单，背后要做的东西就越多，就更需要深厚的积累，你是在把一门课的知识都学完之后才能够把知识点都串联起来的。正如氢OS的名字一样，一加希望氢OS是崇尚轻的ROM，像氢气一样轻、快、简，无处不在又不知不觉的融入你的生活。</p>
+<p>相信“简”这个概念会贯穿整个氢OS，从功能到设计，从交互到视觉，不管是对系统逻辑层次的梳理，还是对信息控制的管理，无声无息，却又无处不在。高屋建瓴，才会知道这个世界的简单。</p>
+<p>当然，要想删繁就简，以简驭繁，离不开领异标新，但我们对氢OS所期望的，不正是那股不同和那股创新么？</p>
+<p>窗口虽然简洁，但透过窗子却能看到美丽的新世界。</p>
+<p>七、 乐享“氢”成</p>
+<p><img src="http://farm1.staticflickr.com/343/19411579476_7cacc9acd7_b.jpg" alt=""></p>
+<p><span style="font-family: 微软雅黑;"><span style="font-size: medium;">5/27</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       距离氢OS发布会还有1天</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       不知道这是不是这一批的最后一张海报了</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       主题“趣”，妙趣横生！</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       一加手机的官微解读为  乐在“氢”中！</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       刘作虎的转发评论更为直接，有点意思，等“氢”来。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       怎么理解这张图呢？才疏学浅，今天往深挖挖不下去了，背景太深了，据说里面有来自政界商界等等的诸多人士，还有火烈鸟为之站台，那我还是站在表面上简单说说吧。今天这张海报的两层意思，一为“等”，二为“趣”。（你们觉得海报里面一共有几个人呢）</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       先说趣吧，毕竟是这幅海报的主题。之前的官方解读曾经说过，氢OS的三大核心价值点，轻，乐趣，以及控制力回归。乐趣对于氢OS而言具有非常重要的地位。这一点在预告片——一加天气中便已经展现的淋漓尽致，不管是交互动画还是感应器的巧妙结合，无不充满了乐趣，从看天气变成了玩天气，当然还有每版都会加入各种各样的彩蛋，更是给应用添加了不少趣味。相信这些在氢OS中会得到更为淋漓尽致的体验，里面的彩蛋和动效相当让人期待。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       好多人说放彩蛋纯属浪费人力物力财力，并没有什么乱用，然而，这些早就融入了轻OS的基因之中，不藏彩蛋就浑身刺挠。</span></span></p>
+<p><div align="center"><img src="http://farm1.staticflickr.com/556/19411858316_003a3bf2a4_b.jpg" alt=""></div><br>&nbsp;</p>
+<p><div align="center"><span style="font-family: 微软雅黑;"><span style="font-size: medium;">不知道这个“美呆了”的动态呈现会不会让广大加油感冒。</span></span></div><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       开一下脑洞，海报中有人，有鸟，多么和谐的生态圈，那氢OS又会打造什么样的生态圈呢？</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br></span></span><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       接下来再说说等，这个就好说多了，毕竟明天就是发布会了，等了这么长的时间终于能看到氢OS的庐山真面目了，期待自然是少不了的。当然我可没有让人把这个排队理解成氢OS的某种发布测试的形式，明天如果只有发布会不放刷机包的话后果是可以预料的，外界好评一片，论坛以及一加的相关微博下面都会骂声震天。其实一加已经在做公测的准备了，但有没有做好还不得而知。毕竟也很少有发布会开完马上就放出最新的系统的，不管是苹果还是国产“iOS”，都要有一个过程。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;"><br></span></span></p>
+<p><div class="quote"></div></p>
+<blockquote>
+<p><span style="font-family: 微软雅黑;"><span style="font-size: medium;">对所有一加的用户来说，已经等了太久。</span></span></p>
+<p><span style="font-family: 微软雅黑;"><span style="font-size: medium;">但对一加来说，时间又觉得很快。（刘作虎）</span></span><br><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       在我们坐享“氢”成，乐享“氢”成的时候，也不妨尝试着换位思考，等等又何妨，社会太浮躁，这个时候静静是多么的珍贵。</span></span><br><span style="font-family: 微软雅黑;"><span style="font-size: medium;">       美好的东西值得欣赏，也值得等待。</span></span></p>
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> 数码 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 一加 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[我的搞机史]]></title>
+      <url>http://nengtalk.com/2015/04/29/my-history-of-mobiles/</url>
+      <content type="html"><![CDATA[<p>想想自己的刷机史，从06年到现在，马上就快十年了。十年，弹指一挥间。<br>06年，从老爸的手中接过了我的第一台手机，Moto E398，那台机器到我手上的时候，已经被我爸刷过了，Java系统，能跑一些Java小程序，那个时候就有很多人在做E398刷机包，加入了各种功能，刷机工具也很简陋，而且全都是线刷。值得一提的是，那时候就已经有了内置软件和反内置软件了—<br>过了两年，E398在我的摧残之下，终于宣告退役，所以从我老爸手里接过了我的第二台手机——Moto L7，也是当时的一个经典啊，还有30W的摄像头，直板硬朗的机身，当然还有数不清的刷机包，每个包都在追求各自的特点，结果每个包都大同小异。<br>对了，那个时候有个土豪同学用着行货的Moto A1200，由于玩着不爽被我抢过来给刷了—然后我们度过了一段非常开心的日子<br>再后来，上了大学之后，终于有了第一台属于自己的手机，自己挑选的一手机器——Moto Milestone。一代的里程碑，想来不知道从什么时候开始我就已经潜移默化的成为Moto的粉丝了，我是身边的人里面第一个用安卓智能机的，在那个满世界都是诺基亚的时代，有一种–特立独行–的感觉。我差不多问遍了淘宝的每一家卖水货里程碑的店家，最后花了2000多才买下了那台机器。里程碑陪了我三年，到最后因为屏幕失灵而退役。<br>用里程碑的时候，每天沉浸于机锋-安智网的milestone板块和软件应用板块，还有一个必去的论坛——itfunz，看着很面熟么，是的，后来他改名了，叫做mfunz。那时候每天最期待的就是等着龙猪发包，每天在那里水啊水，直到龙猪放弃了milestone。很多年以后，当我因为一加的缘故再次进入mfunz，用当年的账号居然登陆进去的时候，感慨良多。<br>miui也是那个时候开始用的，那个时候小米1还没有发布，从itfunz里看到了网友喊人去miui投票求适配的帖子——和今天又是何等的相似。miui刚刚起步，但是一些功能的确是深得我心。那个时候我觉得miui真的是国内最好用的ROM了。小米1发布，30W台预售，我抢了一个号，送给了舍友。从那时起我好像也没再怎么用过miui，也许是因为milestone已经跑不动越来越臃肿的miui，也许是miui的那种风格的确不适合我。<br>插一句，其实搞机也并不仅仅局限于手机，毕竟我还刷过电子词典，并且在相当长的一段时间内沉迷于各种路由器，早在各种智能路由器出来之前，我的路由器就比他们的还要智能了。<br>告别了我的第一台自己挑选的手机，有继续接过了老爸的二手机——联想P770，他换了HTC的M7，说起来，p770是我为他选的，两三年前就有3500mah的大电池，配上mtk的处理器，不说性能，论续航，应该是数一数二的了。那个时候老爸早已经退出刷机圈了，所以手机到我手上的时候，依然是原生的联系系统，乐UI，好像是这个名字吧。当然，因为看不惯那么多的内置软件，到我手上的第一天，系统就被我刷掉了，印象中可能是换成了乐蛙。在网上找来找去，大概是找到了唯一还活跃的P770的论坛–移动叔叔。在那里，一位大神的包简直是每发必刷——suda。很高兴在一加这里依然能看到他。<br>从放弃了miui开始，我意识到自己还是属于那种更倾向于原生系统的那种人，追求着那种简单的生活方式。所以即使是手机上没有aosp的包，即使是刷的乐蛙，也要装上nova，至少看起来也像那么回事，简单，直接，实用才是正道。<br>因为学的是计算机专业，也许是由于专业的关系，一直比较科技圈的事，所以从一加品牌发布的时候就关注了下这个牌子，到手机发布会上说道一加将于CM合作的时候，那时候忽然觉得这个手机好符合我对手机的要求啊，只是遗憾P770太过坚挺，也没有什么换机的理由。<br>去年九月，终于，P770给了我一个机会，让我有借口入了倾心已久的一加。<br>机器到手的第一天，系统变成了CM11S，Color 1.2大概存活了不到4个小时。突然觉得好圆满。再后来，等到安卓5.0出来，感受着安卓的变化和MD设计的美学。氧OS的发布，更是让手中的一加有一种成了谷歌干儿子的感觉。CM12S更是锦上添花了。<br>一加天气是一款强力筛选一加用户的应用，我很喜欢这句话，也对氢有了更多的信心。因为志同道合，所以我情愿做一加的自干五。<br>希望我们不会让彼此失望。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 数码 </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[苹果，会革了自己的命么]]></title>
+      <url>http://nengtalk.com/2015/03/10/apple-revolution/</url>
+      <content type="html"><![CDATA[<p>好像是最近几年来第一次没有追苹果的发布会直播，感觉还不错，至少睡了个好觉。而且，发布会也并没有因为我没有看而少发布了些什么东西。<a id="more"></a></p>
+<p>一直以来，苹果都是以一个革命者的姿态出现在业界，从ipod到iphone，从ipad到mac，一直到apple watch，是的，即使其他厂家早已发布了各自的watch产品，但apple watch依然会被看作是革命者，历史的延传吧。</p>
+<p>那么，这次，苹果会革了自己的命么？</p>
+<p>当然，没那么容易。</p>
+<p>已经打下了广阔江山的苹果，现在并不需要大步的迈进，小步快跑就可以了，毕竟步子迈大了，容易扯着蛋，但这次，苹果的步子稍微有点大，但还不至于伤身。</p>
+<p>Apple TV  不知道有多少人盼着这个小东西更新，但是本着小步快跑的原则，这次还是先降价吧，不过与内容提供商的深化合作，给其体验加分，加量不加价的感觉。毕竟，<del>迫于小米盒子的压力，苹果下调了Apple TV的价格。</del></p>
+<p>MacBook  12寸的大ipad pro早已甚嚣尘上，这个时候推出12寸的macbook想必是及其有深意的，一方面是为了薄不择手段，另一方面，不光卖电脑要赚钱，卖配件更要赚钱。</p>
+<p>Apple watch  这东西上次发布会已经说过了，但好东西就是要五次三番的说嘛，可穿戴设备是一个趋势，手表作为排头兵肯定要冲锋陷阵，但苹果这表，学习成本目测不低，续航时间目测不高，运动版爱答不理，标准版高攀不起，就是这么一个挺尴尬的地位。恐怕也就留给时尚人士和高逼格人群了吧，apple watch 这玩意，还是等到第三代发布之后再买吧，那个时候苹果才会意识到做什么，怎么做。</p>
+<p>东西都足够有新意，也足够有心意，但是能不能让人心仪，还要看苹果下季度的财报了。不过，至少大中华区的财报依然会非常抢眼，这就够了。</p>
+<p>苹果还会继续革命下去的</p>
+<p><img src="http://ww2.sinaimg.cn/large/6e4bb1f3jw1eq0ffjkgg9j20go09ejrg.jpg" alt=""><br>(图自IT之家）</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 数码 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Apple </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Android 私房收藏与推荐]]></title>
+      <url>http://nengtalk.com/2015/01/29/android-software-recommend/</url>
+      <content type="html"><![CDATA[<p>当初选择一加真是个明智的选择啊，简直是爱不释手，而且终于可以跟紧潮流，每日一更新了。这篇文章作为记录，把自己的一些常用应用记录下来，省得忘。<a id="more"></a></p>
+<p>无顺序排列，如果非要说有，那应该就是从刷完机开始到日常使用吧。文中涉及应用来源，包括酷市场、ZD423（捐赠版软件）以及Google Play 。</p>
+<p>0、SuperSU</p>
+<p>虽然CM 12 自带了Root，但有些情况下还是有些问题，比如钛备份只能恢复无法备份等，所以一个SuperSU的zip包还是有必要刷的。</p>
+<p><a href="http://www.zdfans.com/3562.html" target="_blank" rel="external">http://www.zdfans.com/3562.html</a></p>
+<p>1、钛备份</p>
+<p>一些必备的应用早已用钛备份做成zip包，刷机时候直接刷入了。</p>
+<p><a href="http://www.zdfans.com/1443.html" target="_blank" rel="external">http://www.zdfans.com/1443.html</a></p>
+<p>2、谷歌拼音输入法</p>
+<p>御用输入法了，滑动输入简直就是个bug，实在是不能再流畅了</p>
+<p><a href="http://www.coolapk.com/apk/com.google.android.inputmethod.pinyin" target="_blank" rel="external">http://www.coolapk.com/apk/com.google.android.inputmethod.pinyin</a></p>
+<p>3、影梭</p>
+<p>离开谷歌实在是不适应，所以影梭是必装的了，由于一些原因，只给官方商店的链接吧</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks&amp;hl=zh_CN" target="_blank" rel="external">https://play.google.com/store/apps/details?id=com.github.shadowsocks&amp;hl=zh_CN</a></p>
+<p>4、酷市场</p>
+<p>我觉得是国内最良心的应用市场了吧，岂止是良心，简直就是良心啊。里面的应用质量极高，而且评论大都很有意义。</p>
+<p><a href="http://www.coolapk.com/apk/com.coolapk.market" target="_blank" rel="external">http://www.coolapk.com/apk/com.coolapk.market</a></p>
+<p>５、360极客版</p>
+<p>现在自己用的是2.0极客版的内测版，其实360的东西的水准一向都是很高的，只可惜出身不是太好。一个极客版可以取代绿色守护+安全软件了，美观好用。要是和海外版那个结合其实就更好了。</p>
+<p><a href="http://geek.360.cn/" target="_blank" rel="external">http://geek.360.cn/</a></p>
+<p>6、Hosts同步</p>
+<p>相当实用的一款应用，也算得上是最简单的使用Google 服务的方法了，应用的评论区总是有一些可以借鉴和参考的。</p>
+<p><a href="http://www.coolapk.com/apk/net.wszf.client.synchost" target="_blank" rel="external">http://www.coolapk.com/apk/net.wszf.client.synchost</a></p>
+<p>7、CyanDelta</p>
+<p>CM的增量升级工具，最新版需要Google的服务包。一次下载30M左右比下载200M左右要方便多了</p>
+<p><a href="http://www.coolapk.com/apk/com.cyandelta" target="_blank" rel="external">http://www.coolapk.com/apk/com.cyandelta</a></p>
+<p>8、Pushbullet</p>
+<p>手机和电脑之间互相合作的简易工具了，一直用这个，很方便。</p>
+<p><a href="http://www.coolapk.com/apk/com.pushbullet.android" target="_blank" rel="external">http://www.coolapk.com/apk/com.pushbullet.android</a></p>
+<p>9、Inbox</p>
+<p>取代了Gmail的邮箱服务，还是很方便的，可惜还是有些不如Gmail用着习惯。</p>
+<p><a href="http://www.coolapk.com/apk/com.google.android.apps.inbox" target="_blank" rel="external">http://www.coolapk.com/apk/com.google.android.apps.inbox</a></p>
+<p>10、Podcast O2</p>
+<p>一个播客应用，简洁、美观、大方、实用。</p>
+<p><a href="http://www.coolapk.com/apk/com.appo2.podcast" target="_blank" rel="external">http://www.coolapk.com/apk/com.appo2.podcast</a></p>
+<p>11、Messenger</p>
+<p>Google推出的新的短信应用，没的说。</p>
+<p><a href="http://www.coolapk.com/apk/com.google.android.apps.messaging" target="_blank" rel="external">http://www.coolapk.com/apk/com.google.android.apps.messaging</a></p>
+<p>12、Keep</p>
+<p>小巧好用的便签应用，有俩月没更新了。</p>
+<p><a href="http://www.coolapk.com/apk/com.google.android.keep" target="_blank" rel="external">http://www.coolapk.com/apk/com.google.android.keep</a></p>
+<p>13、Poweramp</p>
+<p>当年冰点时候买过的为数不多的正版应用之一。</p>
+<p><a href="http://www.coolapk.com/apk/com.maxmpz.audioplayer" target="_blank" rel="external">http://www.coolapk.com/apk/com.maxmpz.audioplayer</a></p>
+<p>14、Flipboard 国际版</p>
+<p>国内版实在是不成气候啊</p>
+<p><a href="http://www.coolapk.com/apk/flipboard.app" target="_blank" rel="external">http://www.coolapk.com/apk/flipboard.app</a></p>
+<p>15、动动计步器</p>
+<p>试用了几个，这个的准确性和易用性还不错。</p>
+<p><a href="http://www.coolapk.com/apk/cc.pacer.androidapp" target="_blank" rel="external">http://www.coolapk.com/apk/cc.pacer.androidapp</a></p>
+<p>16、Smooth</p>
+<p>第三方的微博客户端，我觉得和CM12很是搭配</p>
+<p><a href="http://www.coolapk.com/apk/com.mzba.happy.laugh" target="_blank" rel="external">http://www.coolapk.com/apk/com.mzba.happy.laugh</a></p>
+<p>17、微博、微信、QQ、淘宝、支付宝、UC浏览器等</p>
+<p>不再多说了吧，我就一俗人</p>
+<p>03.04 Update1 按字母序排列</p>
+<p>a.阿里小号</p>
+<p>额外多了个手机号</p>
+<p>b.百度地图、百度贴吧、京东、京东金融、美团、闲鱼</p>
+<p>c.扫描全能王</p>
+<p>的确很好用，扫文件，扫名片等等，直接做身份证A4复印件，里面模板很多</p>
+<p>d.水表助手</p>
+<p>查快递的应用，美观实用</p>
+<p>e.无秘</p>
+<p>f.一加社区</p>
+<p>g.优顾炒股</p>
+<p>h.知乎</p>
+<p>i.转运中国</p>
+<p>j.赚客吧</p>
+<p>k.Chrome</p>
+<p>l.FeedlyReader</p>
+<p>m.Fuubo</p>
+<p>n.IT之家</p>
+<p>o.LastPass</p>
+<p>p.MX Player</p>
+<p>q.QQ邮箱</p>
+<p>r.UC浏览器</p>
+<p>s.WPS Office</p>
+<p>&nbsp;</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 数码 </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[后盒子时代到底应该怎么玩]]></title>
+      <url>http://nengtalk.com/2014/11/14/what-to-play-about-tvbox/</url>
+      <content type="html"><![CDATA[<p>要不是海美迪开出了双十一征文活动，哪有动力写下此文呢？上次一加晒单的奖品今天降至，过两天这次征文中的盒子也要到了，真是令人愉悦呢~</p>
+<p>既然那边已经评选完了，就把那边的那篇搬回来好了。就是这样</p>
+<p>&nbsp;</p>
+<a id="more"></a>
+<p>众所周知，广电最近的一系列举措令互联网影视媒体、盒子厂商以及用户的日子都不太好过，有人说盒子的好日子已经过去了，也有人说盒子已经没有用了，可以说哀声遍野啊，所以呢，我姑且称现在为后盒子时代。既然盒子鼎盛的时候有鼎盛时候的玩法，没落的时候也有没落时候的玩法。接下来，我就简单的说一说后盒子时代都有哪些玩的，后盒子时代到底应该怎么玩。</p>
+<p>我觉得，在后盒子时代玩盒子，主要可以分为这么几个阶段，入门阶段-进阶阶段-高级阶段-骨灰阶段。</p>
+<p><img src="https://farm9.staticflickr.com/8606/16624243665_e907e03970_o.jpg" alt=""></p>
+<p><strong>一、入门阶段</strong><br>在这个阶段的人群大都是没有深入的接触过安卓系统和盒子的初级用户，他们买盒子的两大主要原因，当然也是大多数盒子用户的主要原因：一是看直播，二是看点播。但初级用户的区别在于他们只知道看盒子里自带的芒果TV直播和点播，所以当广电总局的政策出台的时候，他们的反应也是最为强烈的。<br>那么作为入门阶段的用户应该怎么做呢，一种选择是办理广电的有线，去看稳定清晰的直播，盒子专门用来点播一些电影，芒果的影库不算全不算厚道但倒也够用了，在点播的时候也可以更加灵活，比如在微信上关注“海美迪智能电视盒子”，可以在手机上进行点播，遥控等操作。曾经有传言在微信客户端可以直接收看vip的付费节目，据说是芒果为海美迪留下的后门，但在最近的测试中发现已经失效，还希望海美迪能够尽快修复。<br>除此之外，就要往下学习进阶阶段的内容了。</p>
+<p><strong>二、进阶阶段</strong><br>进阶阶段说起来也比较简单，其实呢就是通过安装各种各样的应用来丰富盒子的直播和点播内容。要知道并不是只有hiTV和直播DIY，作为一个安卓盒子，他可以安装各种各样的应用。就像你在手机上做的那样。<br>那么要怎样安装应用呢？<br>这里介绍一个通用的方法，找一个U盘，将下载好的应用放入U盘内，将U盘插入盒子，在文件管理中找到安装文件安装即可。如果你打开了盒子的smb服务，更可以直接通过网络邻居直接将安装文件拷入盒子内。<br>正如同手机上有各种各样的应用市场，专门为盒子电视大屏幕设计的应用市场也有很多，下面简单介绍几个，大家挑看着舒服的进行下载。<br>沙发管家（<a href="http://www.shafa.com/" target="_blank" rel="external">http://www.shafa.com/</a>）<br>当贝市场（<a href="http://down.znds.com/" target="_blank" rel="external">http://down.znds.com/</a>）<br>奇珀市场（<a href="http://down.7po.com/" target="_blank" rel="external">http://down.7po.com/</a>）<br>爱家市场（<a href="http://app.ijiatv.com/" target="_blank" rel="external">http://app.ijiatv.com/</a>）<br>当然还有海美迪自带的360也算是一个小的应用市场。<br>有了应用市场，大家可以体验的内容就多了，由于广电的政策限制，最近很多视频网站的app都下架了，这里推荐几个还能用而且还好用的应用给各位，大家根据自己的需要进行选择。<br>电视直播类：HDP直播，电视家，VST全聚合，电视猫，泰捷TV等等<br>聚合点播类：VST全聚合，泰捷TV，布丁电视等等<br>至于视频网站的官方APP，截止到这篇帖子写作的时候，优酷还能正常使用。<br>当然，除了以上的聚合类的直播点播软件之外，对于视频网站官方的APP，还可以用以下的几种方法进行解决：</p>
+<p>１、使用网站为安卓平板开发的HD版（可能有部分应用出现遥控器无法控制的现象，最好再配个无线鼠标）<br>２、使用网友破解版的应用，可以正常收看的大网站的节目。这里给大家提供一份整理的吧</p>
+<p>链接: <a href="http://pan.baidu.com/s/1o6ia81W" target="_blank" rel="external">http://pan.baidu.com/s/1o6ia81W</a> 密码: u088</p>
+<p>３、通过盒子内的浏览器或者其他浏览器应用访问网站进行观看（体验不好，不推荐）<br>４、利用手机客户端，通过airplay、DLNA等形式将视频传到电视上进行观看。</p>
+<p><strong>三、高级阶段</strong><br>高级阶段，说到底也只是安装app的一种衍生，只不过他要安装的是一个跨平台的神器——XBMC。</p>
+<p>关于XBMC的详细介绍，我在前一篇<a href="http://i7298.com/archives/317" title="手把手玩转XBMC——XBMC（Kodi）全攻略" target="_blank" rel="external">文章</a>中已经进行了很详细的说明，包括安装、设置中文、更新媒体库、安装插件、调用第三方播放器等等。今天再主要介绍几个小细节。</p>
+<p>1、在外挂第三方播放器的时候，由于在nas里的文件由于还没有挂载，可以出现无法播放的情况。解决办法可以参考如下：在使用XBMC之前先进入海美迪自带媒体中心的nfs或smb目录快捷方式，然后按主页键回到首页再进入XBMC，这时媒体便已经处于挂载状态（这时访问路径也需要要做相应修改）<br>2、充分利用XBMC的插件库。XBMC不仅仅是一个本地的媒体中心，同样也是一个网络的媒体中心，通过XBMC的视频插件，你一样可以收看优酷等上面的节目。下面提供最新的插件库包，大家可以安装后按需安装自己想要的插件。<br>3、暂时还没想起来</p>
+<p>总之XBMC是一个可玩性非常高的应用，而且电脑手机盒子都可以用，各种系统都支持，非常值得大家体验。</p>
+<p><strong>四、骨灰模式</strong><br>其实，玩到这个模式的玩家，已经完全不需要这篇文章了，盒子在他们手中不仅仅是盒子，可以玩出各种花样。下面随便说几个吧<br>1、自定义直播源，只看自己想看的直播<br>2、通过电脑控制盒子<br>3、ROOT，真正实现迅雷脱机下载<br>4、将盒子当作幻灯片播放器，绘声绘影，分享家庭快乐<br>5、将盒子作为家庭数据中心，当一个小NAS用了<br>6、又想不起来了，玩游戏、K歌什么的肯定不能算到这里面来了，但不失为一种拓展。<br>7、将手机、平板的界面通过盒子投射到电视上<br>8、更多玩法，大家来补充吧</p>
+<p>既然都是基于Android平台的，那么光靠禁令是不够的，大禹治水，不能光堵，更重要的在于疏导</p>
+<script type="text/javascript">// < ![CDATA[
+// < ![CDATA[
+// < ![CDATA[
+/*内文  创建于 2014-12-04*/
+var cpro_id = "u1843858";
+// ]]></script>
+<script src="http://cpro.baidustatic.com/cpro/ui/cnw.js" type="text/javascript"></script>]]></content>
+      
+        <categories>
+            
+            <category> 数码 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> XBMC </tag>
+            
+            <tag> 盒子 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[喜欢就会放肆——说说一加手机]]></title>
+      <url>http://nengtalk.com/2014/10/22/my-oneplus-show/</url>
+      <content type="html"><![CDATA[<p>首先，这是一篇留给京东的晒单，毕竟京东的活动说晒单可能会有耳机送（虽然送到我这儿的可能性真的不是很大，再说了像我这么高（qiong)风(kun)亮(liao)节(dao)的人有怎么会不在乎一条耳机呢），那下面就正式开始晒<a id="more"></a></p>
+<p>1、Why 一加</p>
+<p>换机的想法其实来的很突然，毕竟之前的那部P770还能再坚持一阵子，但这想法一来就挥之不去了，在MX4发布之后尤为强烈，在这种想法慢慢达到顶点的时候，也正赶上京东手机节促销，我决定下手了。花了两天时间将手机的选择范围缩小到一加，MX4和荣耀6三款机器上。在错过了MX4的抢购，凭借外观和系统pass掉了荣耀6之后，小心谨慎的冒着极大的风险（因为你不知道双十一这家伙会不会降200促销也不知道再过两个月搭载805的一加2会不会上市）冲着一加下手了。不过事实证明，这次的选择还是比较明智的。</p>
+<p>再说说为什么要选择一加，尤其是在没摸过手感太TM 爽了的baby skin之下，在配置看起来仿佛是和其他手机如出一辙的情况下，最打动人的地方应该就在于它的开放了吧，尤其是支持cm 11 更是令我下定了购买的决心。当然，就外观来说，一加的外观也足够打动人。</p>
+<p><img src="https://farm9.staticflickr.com/8586/16438478889_9554769cfe_o.jpg" alt="46"> <img src="https://farm9.staticflickr.com/8576/16004517373_d78c3c4de8_o.png" alt="47"> <img src="https://farm9.staticflickr.com/8570/16416980027_416d851555_o.png" alt="48"> <img src="https://farm9.staticflickr.com/8681/16624271215_80b7db6052_o.jpg" alt="49"></p>
+<p>2、How一加</p>
+<p>一加到手，从打开包装开始便处处流露着不将就的态度，包装盒设计的及其精致，充电器的设计更是充满了人性化，数据线虽然插在手机上有些紧但也足以打动人。摸到后壳，手感，的确很爽。可是也不无担心，这样的白色后壳在使用中会不会变黄或者留下划痕，好在立志继承科技以换壳为主的一加说要准备出后壳（额。。发布好像小半年了市面上才流出来两种后壳的样子——还买不到），要加油了。不过京东还送了官方的保护壳，又借着促销的大潮买了官方的手机套，所以，哪怕是有划痕又怎样，戴上套又是一条好汉，先爽一阵子再说。</p>
+<p><img src="https://farm9.staticflickr.com/8562/16623163071_15198ee256_o.jpg" alt="50"> <img src="https://farm9.staticflickr.com/8567/16002098984_70206f20cc_o.jpg" alt="51"></p>
+<p>开机，精致的Color OS，简单的用了下，更新系统，简单的试用了下，在国产的系统中可以说算是比较优秀的，交互动画比较合理美观，各种功能也一应俱全。据说Color OS 2.0 的进步很大，可以期待一下，当然，简单的试用之后，开机，连电脑，在刷了机仍然有保修的优待之下，直奔我的心头好——CM 11（这时我才发现CM还为一加出了专门优化的CM 11S），所以以下的体验都是基于CM 11S。</p>
+<p>看到支持联通3G 的一加 CM 11S你是不是很感动呢？</p>
+<p><img src="https://farm9.staticflickr.com/8631/16623613872_b9d9d70f81_o.png" alt="52"></p>
+<p>一看到CM 11S我就心潮澎湃</p>
+<p>在装满了日常使用的应用之后，咱也跑个分</p>
+<p><img src="https://farm9.staticflickr.com/8584/16437095648_72de09e721_o.png" alt="53"> <img src="https://farm9.staticflickr.com/8645/16416980137_55dc742251_o.png" alt="54"> <img src="https://farm9.staticflickr.com/8583/16004517633_9876eb3a72_o.png" alt="55"></p>
+<p>用了一加之后才感受到生活的美好，原来系统也可以这么流畅</p>
+<p><img src="https://farm9.staticflickr.com/8614/16624271475_caed641fe2_o.png" alt="56"></p>
+<p>相机是CM的弱项，不过看起来也并没有那么不堪，一切都那么美好。</p>
+<p><img src="https://farm9.staticflickr.com/8615/16438479369_1370a8ce93_o.jpg" alt="57"> <img src="https://farm9.staticflickr.com/8601/16002099254_eac2ed7bb3_o.jpg" alt="58"></p>
+<p>续航也很令人满意，重度使用一天也不是问题。轻度使用一天也就用了30%的电</p>
+<p><img src="https://farm9.staticflickr.com/8674/16623163461_eea17959ee_o.png" alt="59"> <img src="https://farm9.staticflickr.com/8613/16624271645_6667a67d65_o.png" alt="60"></p>
+<p>当然，还有很好用的双击屏幕唤醒操作，双击状态栏锁屏以及黑屏状态下的手势操作都非常的好用。</p>
+<p>对了，传说中的黄屏问题感觉并不是很严重，使用过程中并没有明显的感觉。</p>
+<p>3、Where一加</p>
+<p>可以说，一加的第一款手机做得非常不错，比某有情怀的厂家好了很多，但未来的一加仍然需要努力，比如一加在保持开放包容的同时开发自己的UI，搭建自己的云生态系统；同时，也希望一加能够尽快推出联通版，免去使用一些手段的麻烦，也希望一加能够推出双卡双待版的机器，满足更多人的需求。</p>
+<p>最后简单推测一下下一代的一加配置好了（一加 2 ）</p>
+<p>高通805+3G内存+2k屏幕+2070W像素摄像头+one plus系统</p>
+<p>最后，敬不将就！</p>
+<p>&nbsp;</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 数码 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 手机 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[手把手玩转XBMC——XBMC（Kodi）全攻略]]></title>
+      <url>http://nengtalk.com/2014/08/26/strategy-guide-xbmc/</url>
+      <content type="html"><![CDATA[<p>玩了几天XBMC，深感这东东的强大，把这几天的体验心得写下来吧。</p>
+<p><img src="https://farm9.staticflickr.com/8662/16622407721_c6ec0195ca_z.jpg" alt=""></p>
+<a id="more"></a>
+<p>先放图引狼</p>
+<p><img src="https://farm9.staticflickr.com/8570/16597557986_b1dc39c7ec_z.jpg" alt=""></p>
+<p><img src="https://farm9.staticflickr.com/8613/16416226217_dfc52b4cf8_z.jpg" alt=""> <img src="https://farm9.staticflickr.com/8604/16003769553_0ae7d385e6_z.jpg" alt=""></p>
+<p>1、什么是XBMC（Kodi）<br>XBMC是一个优秀的自由和开源的（GPL）媒体中心软件。XBMC最初为Xbox而开发，可以运行在Linux、OSX、Windows、Android系统。让用户播放本地或网络存储设备中的大多数视频、音乐、播客及各种常见数字媒体文件。<span style="color: #252525;">XBMC 的可定制性很高，有许多</span><a href="http://zh.wikipedia.org/w/index.php?title=%E7%9A%AE%E8%82%A4(%E7%94%B5%E8%84%91" target="_blank" rel="external">皮肤</a>&amp;action=edit&amp;redlink=1 “皮肤(电脑)（页面不存在）”)<span style="color: #252525;">可以更改软件外观及各种可以访问网络内容的</span><a href="http://zh.wikipedia.org/wiki/%E6%8F%92%E4%BB%B6" title="插件" target="_blank" rel="external">插件</a><span style="color: #252525;">，附带录制直播节目的数字视频录像机图形界面前端，同时支持电子节目指南和高清视频录制。</span></p>
+<p>从XBMC14.0开始，XBMC正式更名为Kodi 。</p>
+<p>2、XBMC的安装<br>官方的XBMC可以去其<a href="http://xbmc.org/download/" target="_blank" rel="external">官网</a>下载，有各种版本。由于该软件是开源的且跨平台,用 C++写成，所以除了安装有不同的风格以外，进入系统之后的设置基本上是一致的。为了截图方便，本文接下来就以Window 系统为例了。本文中使用的版本是最新稳定版的xbmc-13.2-Gotham。<br><img src="https://farm9.staticflickr.com/8570/16436507580_e751e477b7_z.jpg" alt=""> <img src="https://farm9.staticflickr.com/8615/16001343824_245fa03915_z.jpg" alt=""></p>
+<p><img src="https://farm9.staticflickr.com/8643/16001343894_5089308b41_z.jpg" alt=""> <img src="https://farm9.staticflickr.com/8574/16622409411_9ed632c22d_z.jpg" alt=""></p>
+<p>3、设置语言<br>刚进入系统时候的语言是英文的，看起来有些不太方便，可以将其设置为中文，具体方法如下：<br><img src="https://farm9.staticflickr.com/8614/16622421391_608e98b0bf_z.jpg" alt=""></p>
+<p>&nbsp;</p>
+<p><img src="https://farm9.staticflickr.com/8646/16597570656_16f1f1a21b_z.jpg" alt=""></p>
+<p>&nbsp;</p>
+<p>进入System-Settings-Appearance，将Fonts 从 Skin default 改为 Arial Based.</p>
+<p>&nbsp;</p>
+<p><img src="https://farm9.staticflickr.com/8601/16001356134_fca7bd1253_z.jpg" alt=""></p>
+<p>进入International ，将Language 从 English 改为Chinese（Simple）。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="https://farm9.staticflickr.com/8641/16623533445_98b0b2d765_z.jpg" alt=""></p>
+<p>语言设置完成。</p>
+<p>4、设置媒体库</p>
+<p>作为一个优秀的本地播放器，XBMC的一大优点在于媒体库，如图</p>
+<p><img src="https://farm9.staticflickr.com/8617/16623533875_dd93ef611c_z.jpg" alt="13"></p>
+<p>其实这个设置是非常简单的，如下:</p>
+<p>选择视频-文件，点击添加</p>
+<p><img src="https://farm9.staticflickr.com/8563/16001356984_985a68822f_z.jpg" alt="14"> <img src="https://farm9.staticflickr.com/8641/16597572306_1bf37383fb_z.jpg" alt="15"></p>
+<p>可以看到XBMC支持的连接方式还是很多的，从这里选择你的影视文件夹</p>
+<p><img src="https://farm9.staticflickr.com/8613/16597572406_8484d465ff_z.jpg" alt="16"></p>
+<p>确定后会出现设置内容一项，设置 该目录包含  为 电影，选择刮削器 为 The Movie Database，接下来 点击设置，注意将首选语言改为 zh。接下来一路确定就可以了。</p>
+<p><img src="https://farm9.staticflickr.com/8633/16622877402_d29f16a152_z.jpg" alt=""> <img src="https://farm9.staticflickr.com/8681/16622422831_b5da8cf3df_z.jpg" alt="18"></p>
+<p>选择是，刷新媒体库。</p>
+<p><img src="https://farm9.staticflickr.com/8613/16436356938_a7aa7d34f3_z.jpg" alt="19"></p>
+<p>&nbsp;</p>
+<p>刷新完毕后，就可以看到媒体库了，在设置里也可以更换成你喜欢的视图。</p>
+<p><img src="https://farm9.staticflickr.com/8585/16622423441_db7bdbd06c_z.jpg" alt="20"></p>
+<p>&nbsp;</p>
+<p><img src="https://farm9.staticflickr.com/8619/16622424101_0c3b931324_z.jpg" alt="21"></p>
+<p>当然，如果你不喜欢刻个刮削器的话，还可以安装豆瓣的刮削器，可以看到豆瓣里对电影的介绍。安装方法往下看。</p>
+<p>5、添加插件</p>
+<p>丰富的插件资源是XBMC的另一大特色，可以安装射手的插件在线搜索字幕，安装bt的插件可以下载等等等等，还有一些特殊的影视插件，你懂的。</p>
+<p>安装插件的方法有很多，从zip安装插件或者插件包，从获取插件下直接安装等等</p>
+<p><img src="https://farm9.staticflickr.com/8629/16001358974_22dce7f8ce_z.jpg" alt="22"></p>
+<p>以安装射手字幕插件为例，选择字幕-Shooter，点击安装即可。</p>
+<p><img src="https://farm9.staticflickr.com/8639/16622425101_fffc61638c_z.jpg" alt="23"> <img src="https://farm9.staticflickr.com/8623/16597574616_7d6c3e10bc_z.jpg" alt="24"> <img src="https://farm9.staticflickr.com/8659/16623536425_2f163b4ae4_z.jpg" alt="25"></p>
+<p>&nbsp;</p>
+<p>这一部分的最后，提供两个中文插件包以及一个号称是全球最大的插件包（这里可以去<a href="http://superrepo.org/" target="_blank" rel="external">这里</a>直接下载，有惊喜）……</p>
+<p>下载地址：<a href="http://pan.baidu.com/s/1xqEDK" target="_blank" rel="external">http://pan.baidu.com/s/1xqEDK</a></p>
+<p>6、更换皮肤</p>
+<p>其实皮肤也是一种插件，安装方法可上面一样，但为什么还要说呢，因为大部分皮肤都是英文的皮肤，不支持中文，所以你要是想找能用的皮肤的时候最好先换回英文语言。</p>
+<p>接下来介绍一个我最喜欢的，在大神汉化的基础上而来的，也是在XBMC里面非常出名的一个主题——Aeon MQ 5 .</p>
+<p>进入 设置-皮肤-皮肤，选择获取更多，安装Aeon MQ 5</p>
+<p><img src="https://farm9.staticflickr.com/8581/16597574886_89f30fd4ec_z.jpg" alt="26"> <img src="https://farm9.staticflickr.com/8621/16623536735_132718fa22_z.jpg" alt="27"> <img src="https://farm9.staticflickr.com/8674/16622880332_057fd3cbc0_z.jpg" alt="28"></p>
+<p>&nbsp;</p>
+<p><img src="https://farm9.staticflickr.com/8596/16001360224_4c8ef8e267_z.jpg" alt="29"> <img src="https://farm9.staticflickr.com/8650/16437745059_ed0d9bd9bb_z.jpg" alt="30"> <img src="https://farm9.staticflickr.com/8563/16597576156_1b8a500516_z.jpg" alt="32"></p>
+<p>接下来关闭XBMC，进入XBMC的安装目录</p>
+<p>Windows的一般在C:\Users\用户名\AppData\Roaming\XBMC /addons下</p>
+<p>Android的一般在/sdcard/Android/data/org.xbmc.xbmc/files/.xbmc/addons下</p>
+<p>进入skin.aeonmq5目录，添加替换以下文件/文件夹</p>
+<p>相关文件下载：<a href="http://pan.baidu.com/s/1sjnYEgX" target="_blank" rel="external">http://pan.baidu.com/s/1sjnYEgX</a></p>
+<p><span style="color: #444444;">1)替换720P文件夹中的Font.XML </span></p>
+<p><span style="color: #444444;">2)在字体文件夹fonts中添加china.ttf 和msyh.ttf 两个字体</span></p>
+<p><span style="color: #444444;">3)添加Chinese (Simple)文件夹到语言文件夹language中</span></p>
+<p>重启XBMC后，将fonts设置为china，重新选择语言为Chinese（Simple），就可以看到漂亮的汉化中文了。</p>
+<p><img src="https://farm9.staticflickr.com/8567/16416243677_6846e8faf1_z.jpg" alt="33"> <img src="https://farm9.staticflickr.com/8659/16622427901_be5a631f22_z.jpg" alt="34"></p>
+<p>这个皮肤相对于原生而言，可自定义程度很高，你可以随意关闭或者更改相关项目。</p>
+<p>比如：在下图位置按向上键可以调出视图设置</p>
+<p><img src="https://farm9.staticflickr.com/8681/16003788113_34297f29db_z.jpg" alt="35"></p>
+<p>然后可以选择你喜欢的视图</p>
+<p><img src="https://farm9.staticflickr.com/8644/16623539815_8ea8def991_z.jpg" alt="36"> <img src="https://farm9.staticflickr.com/8617/16622428411_8277c03be8_z.jpg" alt="37"> <img src="https://farm9.staticflickr.com/8637/16003788973_2c4694a127_z.jpg" alt="38"> <img src="https://farm9.staticflickr.com/8569/16622884112_dac15dbb35_z.jpg" alt="39"></p>
+<p>&nbsp;</p>
+<p>接下来说说自定义菜单设置</p>
+<p>进入设置-皮肤设置-主菜单-自定义主菜单</p>
+<p><img src="https://farm9.staticflickr.com/8593/16001364144_cd7daae2cb_z.jpg" alt="40"> <img src="https://farm9.staticflickr.com/8569/16003789773_cae821cb36_z.jpg" alt="41"></p>
+<p>&nbsp;</p>
+<p>里面对于菜单的修改便很齐全了，包括显示，替换等等，可以按需修改。特别注意的是，如果发现重命名不支持中文输入的话，一种方法是安装中文输入插件，另一种方法是直接进入皮肤文件进行修改。</p>
+<p>具体位置在安装目录<span style="color: #444444;">XBMC\userdata\下，修改guisettings.XML，搜索并替换你要修改的名字就可以了。</span></p>
+<p>先说这么多，更多的留给各位探索吧。最后上一下盒子里XBMC的部分截图</p>
+<p><img src="https://farm9.staticflickr.com/8619/16597579696_d99e2ee0cf_z.jpg" alt="42"> <img src="https://farm9.staticflickr.com/8675/16622884842_194f4ce3f4_z.jpg" alt="43"> <img src="https://farm9.staticflickr.com/8629/16622430071_9ebd66e831_z.jpg" alt="44"></p>
+<p>&nbsp;</p>
+<p>7、外挂播放器</p>
+<p>如果用着XBMC自带的播放器感觉不顺手的话，可以试试看外挂播放器，毕竟像PotPlayer，TMT之类的播放效果可能更好一些。</p>
+<p>对于Windows下</p>
+<p>在安装路径XBMC\userdata目录创建playercorefactory.xml文件，内容如下：<br><code>&amp;lt;playercorefactory&amp;gt;
+&amp;lt;players&amp;gt;
+&amp;lt;player name=&quot;PotPlayer&quot; type=&quot;ExternalPlayer&quot; audio=&quot;false&quot; video=&quot;true&quot;&amp;gt;
+&amp;lt;filename&amp;gt;D:\tools\PotPlayer\PotPlayerMini.exe&amp;lt;/filename&amp;gt;
+&amp;lt;hidexbmc&amp;gt;true&amp;lt;/hidexbmc&amp;gt;
+&amp;lt;hideconsole&amp;gt;false&amp;lt;/hideconsole&amp;gt;
+&amp;lt;hidecursor&amp;gt;false&amp;lt;/hidecursor&amp;gt;
+&amp;lt;playonestackitem&amp;gt;true&amp;lt;/playonestackitem&amp;gt;
+&amp;lt;/player&amp;gt;
+&amp;lt;/players&amp;gt;</code></p>
+<p>&lt;rules action=”prepend”&gt;<br>&lt;rule video=”true” player=”PotPlayer”/&gt;<br>&lt;/rules&gt;<br>&lt;/playercorefactory&gt;</p>
+<p>在Android下的替换MX Player 方法</p>
+<p><code>&amp;lt;playercorefactory&amp;gt;
+&amp;lt;players&amp;gt;
+&amp;lt;player name=&quot;MXPlayerFree&quot; type=&quot;ExternalPlayer&quot; audio=&quot;false&quot; video=&quot;true&quot;&amp;gt;
+&amp;lt;filename&amp;gt;com.mxtech.videoplayer.ad&amp;lt;/filename&amp;gt;
+&amp;lt;hidexbmc&amp;gt;true&amp;lt;/hidexbmc&amp;gt;
+&amp;lt;playcountminimumtime&amp;gt;120&amp;lt;/playcountminimumtime&amp;gt;
+&amp;lt;/player&amp;gt;
+&amp;lt;/players&amp;gt;</code></p>
+<p>&lt;rules action=”prepend”&gt;<br>&lt;rule video=”true” player=”PotPlayer”/&gt;<br>&lt;/rules&gt;<br>&lt;/playercorefactory&gt;</p>
+<p>稍作修改即可，详情见<a href="http://wiki.xbmc.org/?title=External_players" title="External_players" target="_blank" rel="external">这里</a><br>8、其他</p>
+<p>我在Android上装的版本是SPMC，定制版，详见<a href="http://spmc.semperpax.com/" target="_blank" rel="external">官网</a></p>
+<p>为了防止皮肤自动更新替换掉汉化字体，可以关闭自动更新插件功能。</p>
+<p>可以打开开机自动扫描媒体库功能，方便省事。</p>
+<p>如果喜欢特效字幕的话，可以去下面的这个站点去下载，应该是国内最棒的特效字幕下载站了。</p>
+<p><a href="http://cmct.cc/?fromuid=314583" target="_blank" rel="external">触摸春天音轨字幕网</a></p>
+<p>一些相关的参考资料</p>
+<p><a href="http://bbs.htpc1.com/thread-328081-1-1.html" target="_blank" rel="external">Aeon MQ 5 汉化皮肤（3月31号修正下载）</a></p>
+<p><a href="http://en.wikipedia.org/wiki/Xbmc" target="_blank" rel="external">Kodi (software)
+</a></p>
+<script type="text/javascript">// <![CDATA[
+/*内文  创建于 2014-12-04*/
+var cpro_id = "u1843858";
+// ]]></script>
+<script src="http://cpro.baidustatic.com/cpro/ui/cnw.js" type="text/javascript"></script>]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[【海美迪Q5四核】升级固件汇总]]></title>
+      <url>http://nengtalk.com/2014/07/23/Himedia-Q5-ROMs/</url>
+      <content type="html"><![CDATA[<p>相中了Q5四核的本地播放能力，斥巨资把这个小盒子拿下来了。最近机顶盒市场不太平，还是安安静静的收集发布的固件吧。<img src="https://farm9.staticflickr.com/8603/16624406745_3c9f7cd275_z.jpg" alt="63"></p>
+<a id="more"></a>
+<p><span style="color: red;">升级须知：</span><br><span style="color: #444444;">  1.文件名最好保持不变为 update_quadcore_Q5.zip  ,文件放置U盘根目录</span><br><span style="color: #444444;">  2.1  方法一，设置页面升级，U盘升级</span><br><span style="color: #444444;">  2.2  方法二，安装”restore”按键，开机后 10s</span>再放开按键， 强制进入升级</p>
+<p>&nbsp;</p>
+<p>2015.06.19</p>
+<p>版本号：HMD-1.0.9 2015-06-18.102815<br>MD5: A227F886C98DAF1024B795B3E316CC65</p>
+<p>修改记录：<br>1. 优化了蓝光播放，启动速度慢的问题<br>2. 优化了wifi链接策略，避免偶尔出现无法链接的问题<br>3. 解决了某些NTFS移动硬盘无法识别的问题<br>4. 解决了网上邻居浏览文件时，缺少一个文件问题<br>5. 解决了调整显示区域后，播放4k会黑屏的问题<br>6. 解决了3846*2160的视频，无法播放的问题<br>7. 解决了某些直播的ts流，无法播放的问题<br>8 .解决了airplay播放后，TrueHD没有声音的问题<br>9. 解决了airplay播放时，此时切换分辨率会花屏的问题<br>10. 解决了ariplay，偶尔出现异常退出的问题<br>11. 解决了DLNA 推送视频和音乐显示时间错误问题<br>12. 优化了浏览器和下载的图标显示<br>13. 优化了UI的整体体验</p>
+<p>下载地址<br>链接: <a href="http://pan.baidu.com/s/1ntGGE2P" target="_blank" rel="external">http://pan.baidu.com/s/1ntGGE2P</a> 密码: tkc5</p>
+<p>2015.04.03</p>
+<p>版本号：HMD-1.0.8 2015-03-25.201404<br>MD5: 96AD2C7BF33CEFAF322EEDF093D10BCC</p>
+<p>修改记录：<br>1. 解决了杜比全影声（Dolby Atmos）的True-HD音轨无法解码、透传输出没声音问题<br>2. M3型号增加了待机状态下LED灯的控制开关功能，开关在–》高级设置–》standby<br>3. 解决了第三视频apk，缩放比例不正常的问题<br>比如：HDP直播、电视家直播时,画面比例-无法调到原始比例播放，造成人物画面就拉长,人物变形<br>4. 解决长时间的循环播放，会出现黑屏的问题<br>5. 解决了某些某些片源播放时，会导致底层崩溃的问题<br>比如：清晰的让人窒息.mp4 ，OBS Oh! My God, Ment.ts 等<br>6 解决了分辨率切到4K输出，播放1920*1088 格式视频卡死问题<br>7. 解决了播放芒果TV里的 h265片源偶尔出现黑屏问题<br>8. 解决了切到1080P UI和4K的分辨率后，播放4k影片会卡住画面不动<br>9. 解决了BDMV雷神2 6分41秒处卡死机，空指针崩库按键无反应，需要断电重启<br>11. 加强了3D 蓝光播放的兼容性<br>12. 解决了偶尔手机无法找到盒子的问题<br>13. 解决了威宝直播、土豆xl、HDP直播升级到V1.8.6版本后都无法设成一键直达<br>14. 针对设置向导、首页、应用管理、一键直达、搜索、游戏等进一步优化</p>
+<p>下载地址<br>链接: <a href="http://pan.baidu.com/s/1i3jBhh7" target="_blank" rel="external">http://pan.baidu.com/s/1i3jBhh7</a> 密码: w2dy</p>
+<p>2015.01.17</p>
+<p>版本号：HMD-1.0.7 2015-01-15.152720<br>MD5: 7972A3458CBB67F89E6FA8E278709B9C</p>
+<p>修改记录：<br>1 图像质量问题：<br>1.1 解决了播放某些4K片源时，字体不锐利，给客户感觉就是4k无法点对点输出的问题<br>1.2 解决了播放某些片源，在某些画面会出现画面模糊的情况 比如：MTV LIVE - Hot Right Now!.ts 流，播到在9秒左右，看中间男子的手在动时，视频画面质量差；有的拉丝现象<br>1.3 解决播放哥斯拉有摩尔纹问题</p>
+<p>2 播放问题：<br>2.1 解决了P2P视频卡住，但是声音继续的问题<br>2.2 解决了串流切台慢的问题，请参考此链接：<a href="http://bbs.himedia.cn/thread-178620-1-1.html" target="_blank" rel="external">http://bbs.himedia.cn/thread-178620-1-1.html</a><br>2.3 解决了UDP 协议切台慢的问题<br>2.4 解决了某些片源出现音视频不同步的问题,比如：止嗝点.mp4<br>2.5 解决了某些片源播放会卡住的的问题<br>2.6 解决了播放某些4K片源黑屏的问题,比如芒果TV-电影-4K影院-激情与速度6<br>2.7 解决了1080P 24Hz 失效的问题</p>
+<p>3 APK兼容性问题：<br>3.1 解决快播apk无法使用的问题<br>3.2 解决天空直播软件无法使用的问题<br>3.3 解决了youtub播放黑屏的问题<br>3.4 解决了香港Mytv，无法播放的问题</p>
+<p>4 其他问题：<br>4.1 芒果APK的更新，内容更加丰富<br>4.2 解决了偶尔出现卡开机画面的问题<br>4.3 解决了M3机型对某些路由器5G信号无法搜索到的问题<br>4.4 解决了某些电视某些型号HDMI无信号的问题，比如:夏普的AQUOS<br>4.5 解决了1080UI,升级后会出现画面乱掉的问题<br>4.6 解决了安装第三方输入法设置默认存储后，无法保存的问题<br>4.7 解决某些U盘无法识别的问题。比如：某个u盘有多分区，并且每个分区的文件格式不同，可能会存在找不到的异常<br>4.8 支持自动安装apk的功能，如果u盘根目录中存在文件夹：start_apk_auto_install， 把需要安装的apk 放入文件夹start_apk_auto_install中，插入u盘会自动安装<br>4.9 解决了xbmc插件无法使用的功能</p>
+<p>下载地址<br>链接: <a href="http://pan.baidu.com/s/1dDH7bu5" target="_blank" rel="external">http://pan.baidu.com/s/1dDH7bu5</a> 密码: wv8v</p>
+<p><strong>2014.11.10</strong></p>
+<p>版本号：HMD-1.0.6 2014-11-08.191541<br>MD5: 30E747C4FD54836CCA53B10A2AAED025</p>
+<p>修改记录：<br>1.支持VPN 功能<br>2.更新了MG APK,更新了新版的UI,加强了用户体验<br>3.解决了输入法无法保存的问题<br>4.解决了语言切换后无法保存的问题<br>5.解决了图像质量无法保存的问题<br>6.解决了Nibiru游戏，1080UI显示混乱的问题<br>7.解决了偶尔插入电源后，无法开机的问题<br>8.完善了HDMI兼容性<br>9.解决了大写ISO后缀的蓝光文件无法识别的问题<br>10.增强了音频的兼容性<br>11.首页改版UI的更新，使用更加流畅<br>12.搜索/播放机记录内部机制的更加，更加稳定</p>
+<p>下载地址<br>链接: <a href="http://pan.baidu.com/s/1c0dD29q" target="_blank" rel="external">http://pan.baidu.com/s/1c0dD29q</a> 密码: ddut</p>
+<p><strong>2014.09.30</strong></p>
+<p>版本号：HMD-1.0.4 2014-09-28.204529<br>MD5: 4DE1536AFDA279C34FBAEBE2B3846C6A</p>
+<p>修改记录（Q5四核/Q10四核/Q16 四核）：<br>1.解决了wifi不稳定的问题，有时候会掉速度的问题<br>2.解决了airplay镜像无法的打开的问题<br>3.解决了播放视频时，偶尔有些地方会出现重影的问题<br>4.解决了某些电视(比如:长虹55电视机)，不断闪屏的问题<br>5.解决了Q10四核，硬盘热插拔后，无法找到的问题<br>6.更新了Nibiru游戏–更新了UI和异常退出的问题<br>7.解决播放偶尔异常停止运行的问题<br>8.MG启动器的修改：<br>8.1优化了启动流程<br>8.2解决了APP +添加后，偶尔会丢失的问题<br>8.3解决数据获取不成功时，进入其他应用会引起MG启动器被后台删除掉的问题</p>
+<p>下载地址<br>链接: <a href="http://pan.baidu.com/s/1pJ7aA99" target="_blank" rel="external">http://pan.baidu.com/s/1pJ7aA99</a> 密码: ivwz</p>
+<p><strong>2014.08.30</strong></p>
+<p><span style="color: #444444;"> 版本号：HMD-1.0.3 2014-08-30.193144</span><br><span style="color: #444444;"> MD5:6E4C4239302C63B441E16DF2178D1003</span></p>
+<p>修改记录：<br>1.支持首页360的卸载<br>2.解决了直播切台慢的问题<br>3.解决切换分辨率后无法保持的问题<br>4.解决ip地址偶尔获取不到的问题<br>5.解决 鼠标模式，光标模糊问题<br>6.解决了切换城市后，天气无法获取数据的问题<br>7.解决 “MG启动停止运行” 或 “MG启动器无响应” 的问题<br>8.优化了播放记录，搜索，消息的处理逻辑和流程<br>9.更新了Nibiru 游戏<br>9.1nibiru手机免费体验：iphone扫描显示空白无法下载客户端，安卓手机扫描二维码连接设备，提示未连接<br>9.2强制升级后，开机偶尔会出现“很抱歉，Nibiru已停止运行”</p>
+<p>下载地址：<br>链接: <a href="http://pan.baidu.com/s/1kTLvaar" target="_blank" rel="external">http://pan.baidu.com/s/1kTLvaar</a> 密码: r7o9</p>
+<p><strong>2014.08.07</strong></p>
+<p>测试版</p>
+<p>链接: <a href="http://pan.baidu.com/s/1hq89NdM" target="_blank" rel="external">http://pan.baidu.com/s/1hq89NdM</a> 密码: s2qw</p>
+<p><strong>2014.08.01</strong></p>
+<p>版本号：HMD-1.0.2 2014-08-01.184829<br>MD5: D3D65984A818638C817330B2026F2EEA</p>
+<p>修改记录：<br>1.新消息中心的支持<br>2.解决了4k视频播放模糊，不锐利的问题<br>3.解决了分辨率有时候显示不对的问题<br>4.解决了有时候usb找不到的问题<br>5.解决了wifi有时候无法搜索到ap的问题<br>6.解决了偶尔会出现盒子卡住的问题<br>7.解决了开启默认启动的异常<br>8.解决了本地升级，偶尔无法升级的问题<br>9.修复wifi添加网络无法选择加密方式和输入密码异常<br>10.图片浏览后，删除sd卡中的缓存图片<br>11.解决了HiPipe和HiChannel，偶尔停止运行的问题</p>
+<p>升级须知：<br>1 如果设备的版本号是HMD-1.0.0 2014-06-27.212330<br>请先使用过渡版本【此版本有在线推送已部署 】过渡版本的相关情况：<br>1.0 修改说明： <a href="http://bbs.himedia.cn/thread-172420-1-1.html" target="_blank" rel="external">http://bbs.himedia.cn/thread-172420-1-1.html</a>。<br>1.1 下载地址：链接: <a href="http://pan.baidu.com/s/1pJobW2v" target="_blank" rel="external">http://pan.baidu.com/s/1pJobW2v</a> 密码: rel6<br>1.3 如果升级成功，再使用2中的版本升级。</p>
+<p>2 如果设备的版本号不是HMD-1.0.0 2014-06-27.212330，请使用此版本。<br>链接: <a href="http://pan.baidu.com/s/1mg7fIdE" target="_blank" rel="external">http://pan.baidu.com/s/1mg7fIdE</a> 密码: s5om</p>
+<p>3 升级方法：<br>3.1 文件名最好保持不变为 update_quadcore_Q5.zip ,文件放置U盘根目录<br>3.2 方法一，设置页面升级，U盘升级<br>3.3 方法二，安装”restore”按键，开机后 10s再放开按键， 强制进入升级</p>
+<p>4 本次升级涉及到底层改动，为了考虑兼容性，部分应用数据会恢复默认设置</p>
+<p><strong>2014.07.24</strong></p>
+<p>版本号：HMD-1.0.1 2014-07-24.215244<br>MD5: E92F138880CB32300CEE99F093C6C31F</p>
+<p>修改记录：<br>1.解决了 SAMBA共享，能搜索到共享但要求账号密码无法挂载上的问题<br>2.解决Airplay镜像时，花屏的问题<br>3.解决HDMI，有时候切换分辨率后，重启不保存的问题<br>4.最近应用：UI的更新, 长按HOME按键，可以激活最近应用管理页面，可以一键清除 后台应用<br>5.更新媒体中心的新版操作界面<br>6.首页对消息中心的支持<br>7.增强了首页的容错性和兼容性<br>8.解决盒子设置偶尔会出现停止运行的问题<br>9.完善有线网络和无线网络优先级的处理逻辑，解决有时开机无线连接不成功问题<br>10.在设置中加入 图像质量的支持 （另外在播放过程中，按菜单键 也可以调整）<br>11.完善盒子的设置应用，修改相关描述和相关界面<br>12.第一次使用设置向导中，完善显示区域的调整方法<br>13.解决了偶尔出现的 HiPipe 停止运行的问题<br>14.调整功耗控制，降低盒子运行功耗<br>15.解决升级后，部分盒子卡在LOGO的问题<br>16.解决了有时候插入USB3.0导致不稳定的问题</p>
+<p>下载地址：<a href="http://pan.baidu.com/s/1kThy6TT" target="_blank" rel="external">http://pan.baidu.com/s/1kThy6TT</a></p>
+<p>提取密码：6x52</p>
+<p><strong>2014.07.22（泄露版本）</strong></p>
+<p>更新说明未知，明显的改动是主界面失效的电视按钮消失，更改为文件管理</p>
+<p><a href="http://i7298.qiniudn.com/wp-content/uploads/2014/07/QQ图片20140723162549.jpg" target="_blank" rel="external"><img src="http://i7298.qiniudn.com/wp-content/uploads/2014/07/QQ图片20140723162549.jpg" alt="QQ图片20140723162549"></a></p>
+<p>下载地址：<a href="http://pan.baidu.com/s/1dDgUKWp" target="_blank" rel="external">http://pan.baidu.com/s/1dDgUKWp</a></p>
+<p>提取密码：1nbx</p>
+<p><strong>2014.07.16（内测版本）</strong></p>
+<p><span style="color: #444444;">系统版本号：HMD-1.0.1 2014-07-16.181407</span></p>
+<p><span style="color: #444444; font-size: medium;">修改记录：</span><br><span style="color: #444444; font-size: medium;">    </span><span style="color: #444444;">1.解决Airplay镜像时，花屏的问题</span><br><span style="color: #444444;">    2.解决HDMI，有时候切换分辨率后，重启不保存的问题</span><br><span style="color: #444444;">    3.最近应用：UI的更新, 长按HOME按键，可以激活最近应用管理页面，可以一键清除 后台应用</span><br><span style="color: #444444;">    4.更新媒体中心的新版操作界面</span><br><span style="color: #444444;">    5.解决盒子设置偶尔会出现停止运行的问题 </span><br><span style="color: #444444;">    6.完善有线网络和无线网络优先级的处理逻辑，解决有时开机无线连接不成功问题</span><br><span style="color: #444444;">    7.在设置中加入 图像质量的支持 （另外在播放过程中，按菜单键 也可以调整）</span><br><span style="color: #444444;">    8.完善盒子的设置应用，修改相关描述和相关界面</span><br><span style="color: #444444;">    9.第一次使用设置向导中，完善显示区域的调整方法</span><br><span style="color: #444444;">    10.解决了偶尔出现的 HiPipe 停止运行的问题</span><br><span style="color: #444444;">    11.调整功耗控制，降低盒子运行功耗</span><br><span style="color: #444444;">    12.解决升级后，部分盒子卡在LOGO的问题</span></p>
+<p>下载地址：<a href="http://pan.baidu.com/s/1pJNnN5L" target="_blank" rel="external">http://pan.baidu.com/s/1pJNnN5L</a></p>
+<p>提取密码：uakz</p>
+<p><strong>2014.07.11</strong></p>
+<p><span style="color: #444444;">版本号：1000 HMD-1.0.0 2014-07-11.175644</span></p>
+<p>修改记录：<br><span style="color: #444444;">新功能：</span><br><span style="color: #444444;">  1.设备名支持，并支持修改</span><br><span style="color: #444444;">  2.设置的全面更新(新功能，新排序)</span><br><span style="color: #444444;">  3.支持X.265的视频</span></p>
+<p><span style="color: #444444;">盒子稳定性和兼容性： </span><br><span style="color: #444444;">  1.盒子的发热量进一步降低</span><br><span style="color: #444444;">  2.解决了升级模式中，av输出花屏的问题 </span><br><span style="color: #444444;">  3.解决了播放时，概率性的底层库崩溃的问题</span><br><span style="color: #444444;">  4.解决了某些片源，播放时透传没有声音的问题</span><br><span style="color: #444444;">  5.解决了某些片源，播放时屏幕顶部概率性会出现一条花边的问题</span><br><span style="color: #444444;">  6.恢复工厂时，完全恢复到出厂配置</span><br><span style="color: #444444;">  7.解决偶尔天气获取不到数据的问题</span><br><span style="color: #444444;">  8.解决了应用管理，偶尔停止运行的问题</span><br><span style="color: #444444;">  9.浏览器导航页的修改</span><br><span style="color: #444444;">  10.解决了设置有时候，停止运行的问题</span><br><span style="color: #444444;">  </span><br><span style="color: #444444;">用户视界体验：</span><br><span style="color: #444444;">  1.最近应用UI，更加人性化</span><br><span style="color: #444444;">  2.播放记录和消息中心，进入时不闪黑屏</span></p>
+<p>下载地址：<a href="http://pan.baidu.com/s/1eYZBS" target="_blank" rel="external">http://pan.baidu.com/s/1eYZBS</a></p>
+<p>提取密码： rd9a</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 海美迪Q5 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[解决安装更新时遇到的Warning: touch() [function.touch]等问题]]></title>
+      <url>http://nengtalk.com/2013/12/10/warning-touch-function-touch/</url>
+      <content type="html"><![CDATA[<p>困扰了我好长时间了，解决之<a id="more"></a></p>
+<p>问题描述：</p>
+<p><strong>Warning</strong>: touch() [<a href="http://www.jspurg.com/wp-admin/function.touch" target="_blank" rel="external">function.touch</a>]: Unable to create file <em>.tmp because No such file or directory in**</em>/file.php<strong> on line <em>*</em></strong></p>
+<p><strong>Warning</strong>: unlink(<em>.tmp) [<a href="http://www.jspurg.com/wp-admin/function.unlink" target="_blank" rel="external">function.unlink</a>]: No such file or directory in **</em>/file.php<strong> on line <em>*</em></strong></p>
+<p>原因：不明</p>
+<p>解决办法：</p>
+<p>修改wp-config.php</p>
+<p>添加以下一行代码</p>
+<p><pre>define(‘WP_TEMP_DIR’,ABSPATH.’wp-content/uploads/‘);</pre><br>参考网页：</p>
+<p><a href="http://jehy.ru/articles/2009/12/29/wordpress-ftp-update-trouble/" target="_blank" rel="external">WordPress FTP update trouble</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> wordpress </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[机情燃烧的岁月]]></title>
+      <url>http://nengtalk.com/2013/09/12/time-of-playing-phones/</url>
+      <content type="html"><![CDATA[<p>这注定是个不平凡的9月，机情燃烧的9月。</p>
+<p>各大手机厂商挖空了心思削尖了脑袋往这里钻，好像在9月发布新机器是多了荣耀的一件事，也不知道是为了蹭苹果的光环还是去蹭处女座的光环–，在iphone发之前就想码这篇文章，想了想还是等iphone出来一起写吧，还要找工作，好忙。</p>
+<a id="more"></a>
+<p>我只会看发布会（啊，也仅仅是几家科技媒体的图文直播而已……）和部分新闻，我没碰过真机，我觉得我还是比较理性的，我觉得我说的话都比较客气，所以，我写这些东西都是写着玩的，总是发不到140字的微博会让自己越来越碎片化。</p>
+<p>列个单子，看看一会儿要说那些机器。</p>
+<p>1、vivo X3 2、MX3 3、Note 3</p>
+<p>4、小米3 5、Xpeira Z1 6、iphone</p>
+<p>一、大同的大不同</p>
+<p>都是各家的旗舰，这个时候再去讨论系统卡不卡是没有意义的，虽然这考验厂商的优化功底，但底子薄的硬件厚，底子厚的硬件也不薄。入手体验卡卡的你还叫这些厂商怎么在手机圈和娱乐圈广告圈混。</p>
+<p>关于差异化，越来越多的厂商认识的越来越深刻，在权衡了自己的优劣势之后，他们的拳法套路也更加到位与明确。所谓求同存异，屏幕越来越大，厚度越来越薄，性能越来越强，效果越来越好，但总延这个套路往下走会有一种被牵着鼻子走的感觉，于是，差异化就变得尤为重要，要有自己的风格和特色。所以，vivo选择了音质，魅族选择了设计，note选择了笔，小米选择了miui，Z1选择了摄像，苹果选择了苹果。</p>
+<p>差异化的好处在于可以很好的定位用户群，可以有针对性的进行推广，也可以利用突出的优势对短板加以遮蔽，比如用优质的音频芯片掩盖处理器的不足，6589的处理器一样能卖出好价钱来。再如z1，更是用传统的摄像头上的长处去迎战卖相机的诺基亚，战火纷飞，从上一代继承下来的三防也添了不少亮色。在note上，三星则在为那根笔赋予更多的信息，而且，三星比苹果更懂中国，在塑料的把玩上更加炉火纯青。</p>
+<p>二、国产厂商的集体发力与内斗</p>
+<p>不得不说，国产厂商最近几年来的进步很大，除去陆续开始转型的中华酷联，小米魅族oppo步步高都获得了大幅的进步，但苦于品牌问题，旗舰机也做不出高价，估计3k的国产被问津的就聊聊无几了。所以说，如何打开高端市场，把自己的身份抬高一个档次，是一个问题。</p>
+<p>“会买米3的大概更多是容易被忽悠的无脑吊丝（屌丝）吧。”小米与魅族的矛盾已经不是一天两天了，其中的故事也曾被人津津乐道，为了丰厚的国内市场，大家还没有必要到一致对外那一步上去，所以内斗是无法避免的。内斗有好处，内斗不断催促着厂家拿出更好的产品，但是，保证了性价比，就一定会有性和价都稍有不足的地方。而且，做了太多的性价比，被打上标签之后，以后想要转身就不太容易了，虽然现在青年人群中的购买力很强，但当他们以后成长起来之后，他们会不会还买你的手机就成了问题。</p>
+<p>这里，给小米个发展建议，在红米，小米之外再单开一条线，睿米也好，或者应该干脆跳出*米这个圈子，真正做一款高端机，3k+价位，精致做工，不求销量，只求慢慢给自己转型，给自己的未来一个好口碑。</p>
+<p>再说魅族，J.Wong说自己没有倚天剑屠龙刀，只有一把实实在在的菜刀，他的精心是众人看在眼里的，论工匠，罗胖子的确还差着（虽然最近觉得锤子的那套图标的确很好看……），魅族不是小米，他有自己的小众路线，他会顽强的走下去。</p>
+<p>三、论软实力建设的重要性</p>
+<p>软实力，一方面是品牌建设，不再多说，这里说说软件方面的建树。现在的手机早已不再是简单的堆料，没有拿的出手的软功夫，也只能归为重出江湖的新一代山寨一流，小米的出名不只是靠性价比，MIUI起了居功至伟的作用，虽然很多极客看不起那个系统，但是，miui在普通用户中深入人心，它的方便好用是毋庸置疑的。相比之下，那些换了几个图标就跳到舞台上的厂家需要做的就更多了。再说三星和苹果，三星从上一代g3开始就已经注重软件上的发展建设，一场发布会一大半的时间在讲更加人性化更加好用的软件。Android是大同，但要想卖好手机，就要做到大不同。而苹果，ios7的推出从刚开始的骂声一片到现在的万众期待和好评如潮，潜移默化的在将他的理念深入人心。</p>
+<p>四、核战争不是唯一的途径</p>
+<p>苹果总是带路者，当三星还在沉迷于核战，刚刚打出异步八核“真八核”口号的时候，iphone上的M7则更加引人关注，当然更吸引人的是iphone的64位的启用，过程是痛苦的，但结果是美好的，已经可以想象在不就的将来，在手机上跑4g的内存是多么赏心悦目的一件事了。科技的创新，就是要做到敢做，敢于把实验室里的技术拿出来，不能被牵着鼻子走。当然在一个方向做到极致也是极好的。</p>
+<p>五、更好用的大屏手机</p>
+<p>其实我个人更喜欢4.7寸左右，超大电池容量的手机，没有必要那么薄，太薄了反而拿着不舒服，还容易破，与其削薄几mm，反倒不如多个1000毫安电池来的实在。但现在的状态，是屏幕越来越大，一款手机要当三部出，标准5寸，mini，max……每家厂商都在研究怎样在大屏上获得更优秀的操作体验，这一点上，我觉得国产手机做的要更好一些，先不说mx3是不是最好用的大屏智能手机，但他们在大屏机器上的探索还是喜闻乐见的。当然，革命尚未成功，同志尚需努力。</p>
+<p>六、更加智能化的智能手机</p>
+<p>iphone的M7是一抹重色，他给iphone以后相关配件的推出埋下了伏笔，iwatch的推出什么的更为值得期待，毕竟3k块的gear已经吸引了不少眼球，iwatch既然无法第一个做出来改变世界，那就让他重新定义watch吧。但是，M7让iphone更加智能（魅族在这个上面也下了很多工夫）</p>
+<p>在手机的支持下，穿戴式设备会有更好的发展前景。</p>
+<p>还有一点不得不说的，小米电视，小米手机更加发烧的配件，暂且不说小米的硬件调度上以后表现如何，但光在软件体验上来说，小米走在了传统厂商的前面，用互联网的思想做电视，电视终于迎来变革。我在以前的文章中说，盒子是发展的下一步，客厅要重新成为必争之地，但现在来看，比盒子要更进一步了，要把盒子直接装进电视里面去。</p>
+<p>七、关于iphone5c的定价与定位</p>
+<p>首先，你指望一台和iphone5配置相近的新iphone定价在2500左右是不切实际的，你让iphone5的用户怎么看，苹果的牌子在那儿摆着，他没有必要用低价去砸自己的牌子，所以幻想着廉价iphone的，请去买iphone 4s。至于iphone5c的销售对象，全球广大的女性朋友们。她们不会关注64位还是32位，她们关注的仅仅是“哇，这个是苹果出的”“哇，这个好漂亮”“哇，我要！”。年底看苹果的季报吧，5c也许没有5s的销量大，但是也不会少。</p>
+<p>尾声，好长时间不写东西，想说的都写不出来了，其实想归想，在脑海中是一回事，说出来是一回事，写下来更是另一回事，我就是随便说说，练练笔，写完之后发现的确是和自己想的还有一些差距，以后有时间再来改吧。每天收到的信息太多，一个星期前的信息，现在还记得的已经不多了，先这样，over。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 手机 </tag>
+            
+            <tag> Apple </tag>
+            
+            <tag> Android </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[跟风说说WWDC]]></title>
+      <url>http://nengtalk.com/2013/06/11/wwdc-2013/</url>
+      <content type="html"><![CDATA[<p>What a wonderful night！</p>
+<p>最近几年来少有的看High了的Keynote，耳目一新，透彻心脾。<a id="more"></a></p>
+<p>开始的开始，不得不说这次的<a href="http://www.apple.com/apple-events/june-2013/" target="_blank" rel="external">视频直播</a>很赞！看了多年的图文直播，终于能流畅的看视频了，而且还不用翻墙。</p>
+<p>1、Anki Drive</p>
+<p>开场差点出篓子的智能小车，作为一道开胃餐还是很不错的，现在看是玩具，但它有一个美好的未来。一方面是外设的丰富，更重要的在于以后的无人驾驶，很炫酷，国外的科技公司在研究未来，国内的公司在研究十多亿人的口袋。</p>
+<p>2、MacBook Air</p>
+<p>处理器的更新神马的都是意料之中的事，但真正震惊的是十二小时的续航，在那么薄的机身上……可惜没有Retina，在续航和高清之间，Apple选择了续航，高清还是留给下一代吧。国行13寸7988起，港行能便宜1k左右，一个Air，真的能满足80%以上的工作需要了。</p>
+<p>3、Mac Pro</p>
+<p>好精致的保温桶，虽然用不到，但只看看就是一件非常赏心悦目的事情。</p>
+<p>4、Mac OS X Mavericks</p>
+<p>iOS继续反哺OS，多平台继续打通，其实我到是想着假如有一天苹果的自家应用向Android和Windows Phone平台开放的话，那会是什么样子呢？全平台的事好像亚马逊干着呢，但人家干的是本行。倒是先可以看看黑莓的表现。</p>
+<p>5、iWork</p>
+<p>啊，Apple开始应战Mircosoft和Google了，在线文档处理华丽丽的表现令人称赞，但还是始终面临着问题，一方面自家的东西兼容性略低，另外，在没有很好的网速的扶持下，再好的服务都是于事无补。至少，不适合天朝。</p>
+<p>6、iOS 7</p>
+<p>值得拍手称赞的重头戏，在定义了世界之后的推倒重来，看完介绍我都差点忍不住站起来拍手称快了。应该用什么来形容呢？清新脱俗，出类拔萃，与众不同。虽然今天被大量的吐槽像这个像那个的，但并不影响，怎么说，不是改变世界，而是顺应潮流。苹果在努力寻找一个平衡，要在稳定中发展，作为船长的库克，这并不容易。</p>
+<p>被期盼已久的真多任务目测也出现了，但带来了方便的同时对现有设备的性能肯定是提出了极高的要求，4和4s的用户，想体验iOS7的话还是换5S吧。</p>
+<p>iRadio，啊，要说什么，看到每首歌边上都写着$x.99，就不由得菊花一紧啊，还是只听歌好了，什么，免费的还有广告？额，好吧，反正我估计国内也不会在短时间内用上。</p>
+<p>开发者大会，在iOS上，官方借鉴了大量的开发者的成果，把大量的优秀的插件加以改进整合，放到底层，这一招屡试不爽，但……可怜的开发者们。</p>
+<p>还要说点什么，作为一个从来没打算过使用iPhone的骚年来说，我更期待iPad版的iOS 7尽早的揭开真面目。</p>
+<p>&nbsp;</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Apple </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[说说山大的双学位]]></title>
+      <url>http://nengtalk.com/2013/06/05/double-degree-of-SDU/</url>
+      <content type="html"><![CDATA[<p>随便说说山东大学的双学位。<a id="more"></a></p>
+<p>首发于<a href="http://tieba.baidu.com/p/2371524167" target="_blank" rel="external">山东大学吧</a>，整理一下搬过来</p>
+<p>1、先说最后悔的事吧，就是大一结束的时候在学长学姐的忽悠下没报双学位，直到大二结束的时候才报（而且在交钱的那一刻原本打算一同报的基友放弃了……）</p>
+<p>大一结束的时候，学长学姐们对我说，双学位很水，而且很累，每周末都要早起去赶校车，非人的生活，而且当时感觉大二的课业比较多，所以楼主也就退缩了。但其实，忙也就那么回事，周末（不止是周末）照样睡懒觉，上课该玩还是玩，考试周该突击还是突击。一言以蔽之就是该浪费的时间一点都没节省下来，所有的理由都是懒惰的借口。于是乎，楼主决定在大二结束的时候报双学位，哪怕在大四结束的时候会面临两篇毕业论文的压力……</p>
+<p>2、我为什么想学双学位</p>
+<p>主要有三个原因吧，一个是考研动力不足，学学经管方面的知识以后多多少少会有一些帮助；另一个原因，就是去听听人文学科老师讲课，听惯了理工科老师的读课本，觉得需要另一种思维；还有一个原因，通过双学位强迫自己利用周末的时间，不再宅在软件园，不再每天早上从10点半开始，去大中心感受感受学习的氛围</p>
+<p>3、专业的选择</p>
+<p>经济，管理，法学，是不是还有历史文化学院忘了，反正当时的选择就在经济与管理之间（法学一是没啥想法，二是要求排名前30%，攀不上去）。报经济的好处在于据说经济的双学位有五个左右的保送经济的名额（至少去年是，今年不知道），但经济考试闭卷偏多，而且对数学要求也较高（楼主对自己的高数一直没什么信心），此外，经济比较坑的一点是结课和考试通常有半个学期的间隔，加上闭卷，复习起来压力略大，但知识上的收货肯定也略多。报管院的好处在于管院的考试大多开卷，随堂考试，而且对数学要求不高。还有一点就是楼主觉得管院已经把经济方面的基本知识学的差不多了。所以于是乎思考再三就决定了报管院的人力资源专业。（然后猫爷就成了准直系学姐，对了，还有大TT也成了学姐了）</p>
+<p>4、一年的感受</p>
+<p>暑假一个月，再加上大三一年的周六周日，差不多正好快一年了，楼主缺的课加一起应该两只手就能数的过来吧，虽然略累，但感觉收获是蛮多的。大三之后我们课明显少了很多，周六周日两天的课程已经快赶上周一到周五的课多了，但不同点是双学位的课你只要听就可以了，没有作业什么的压力。（听说某专业还要画五百张鸡蛋……），我经常跟人说，我就是怀着一颗听报告讲座的心去听课的。不得不说管院在给双学位老师的安排上一点都不水，好老师非常多，课讲得非常的漂亮。印象最深的两个老师，一个是辛杰老师（当初一个基友跟着我听了一节大辛杰老师的课之后就跟着把他的课都蹭完了……）另一个是教人员素质测评的王老师，心理学的专家啊。到目前为止，考过的课应该都是开卷的，但开卷你也不一定能找到答案……还有一点，周末的时间忽然感觉充裕了很多，有时间吃早饭了，有时间看闲书了，双休日的利用效率明显提高。</p>
+<p>5、关于双学位的文凭</p>
+<p>老实说楼主也不知道双学位的文凭有没有用，以后能不能用双学位的文凭去找工作。据传言这双学位只有山东省承认，但还有传言在有些单位部门双学位可以顶一个研究生文凭……虽然听一些管院老师说的确有很多凭双学位找到工作的例子。但是，至少有总比没有强，有些公司还是会看一个人全方面的能力的。而且，对于打算跨专业考研的同学来说，双学位是一个不错的选择。（@闷声考大研的阿卡 ）此外，哪怕是去听听那些优秀老师的课也是极好的，会多一些对经济管理方面的知识的了解，也会更多一些人文情怀。（一说情怀顿时就觉得高雅了许多，怪不得罗胖子喜欢用这个词）</p>
+<p>6、其他的一些碎碎念</p>
+<p>6.1 至少从我们班来看，报双学位的妹子居多，而且大多来自外院艺术学院文学院等等，某些人你们懂的。对了，体院报的人也很多，不过体院的出勤率一向不是很高</p>
+<p>6.2 有些老师课上会点名，但其实去不去上课听不听课完全取决于你自己，哪怕只有十个人到老师依然会很用心的讲授</p>
+<p>6.3 教材什么的，还有两个周的跳蚤市场都是很好的淘书场所</p>
+<p>6.4 不要为了一个文凭而去报名，当然报了名不出意外的话你会得到这个文凭，更多的还是去汲取知识，尤其是这些经管学科，听课和看书是两种截然不同的感受</p>
+<p>6.5 如果你报了双学位，不要让懒惰成为你不去上课的借口</p>
+<p>6.6 多和双学位的老师交流，可以谈谈人生，谈谈理想</p>
+<p>6.7 如果你厌倦了总在一个校区上课，总是感觉没有融入感的话，倒是可以利用双学位去走一走比较大的校区，感受感受</p>
+<p>6.8 周末在中心的时候吧友面基的机会会多了很多（“现在在中心小树林，有没有来面基的……”）</p>
+<p>6.9 你的交往圈子会自然而然的扩大（楼主表示同学中有不少对已成）</p>
+<p>6.10 怎么感觉我像双学位的托一样</p>
+<p>6.11 一时半会儿我也想不起来要说什么了，这都半点多了</p>
+<p>6.12 有什么想问的就在楼下问吧，我随时补充</p>
+<p>7、几点解读<br>7.1 经济学院接收修读本学院双学位的学生免试推荐攻读硕士学位研究生，具体要求根据本科生院的相关规定执行。（经院通知：<a href="http://www.econ.sdu.edu.cn/page-content-id-75402.html" target="_blank" rel="external">http://www.econ.sdu.edu.cn/page-content-id-75402.html</a>）。经院双学位的待遇的确很高。</p>
+<p>7.2 关于学制，经院是两年，管院写的是三年，而且今年好像只招2012级的了（<a href="http://www.shy.sdu.edu.cn/shuangxuewei/" target="_blank" rel="external">http://www.shy.sdu.edu.cn/shuangxuewei/</a>）</p>
+<p>7.3 偏远地区会有双学位专属校车，双休日和暑假都有</p>
+<p>7.4 绩点70算是个指标，排名前50%是个噱头</p>
+<p>7.5 学位由山东大学学术委员会审批、并报省教育厅备案。这就是为什么有人会说只有省内承认。</p>
+<p>7.6 经院修读学分到达40分，管院修读学分达到30分的学生，发辅修专业证书。你可以修够学分之后拿报名时的发票去把剩下的钱退回来……</p>
+<p>8、关于教材<br>8.1 教材学校不发，这个要自行筹备</p>
+<p>8.2 筹备途径有很多<br>1）跳蚤市场<br>2）南门对面的书店，八折或者是八五折<br>3）图书馆一楼据说有时候也有卖的<br>4）跟本专业同学借<br>5）网购<br>6）图书馆借一本</p>
+<p>8.3 一个十分不道德的用书方法<br>考试前去亚马逊买书，保持书面整洁，考完试将书退回（不到万不得已还是不要这么干了）</p>
+<p>&nbsp;</p>
+<p><span style="color: #000000; font-family: 宋体; font-size: 14px; line-height: 24px; background-color: #e9e0ad;"> </span></p>
+<p><span style="color: #000000; font-family: 宋体; font-size: 14px; line-height: 24px; background-color: #e9e0ad;"> </span></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 学业 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 双学位 </tag>
+            
+            <tag> 大学生 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Evernote版本升级提示2732错误的解决办法]]></title>
+      <url>http://nengtalk.com/2013/05/10/solution-to-evernote-2732/</url>
+      <content type="html"><![CDATA[<p>之前升级4.6.4的时候就遇到了这个问题，当时没太在意，现在4.6.5了依然有这个问题，而且连正常卸载都卸载不了了，真拙计，查找了一下，整理出以下四种解决方案<a id="more"></a></p>
+<blockquote>
+<p><span><span>提示：</span></span></p>
+<p><span><span>(./Bootstrapper.cpp:896) 0×643:安装时发生严重错误</span></span></p>
+<p>安装程序在安装此件包时遇到了错误。这可能表示此软件包有问题。错误码是2732。<br><strong>解决方案1</strong></p>
+</blockquote>
+<p>使用<a href="http://www.revouninstaller.com/revo_uninstaller_free_download.html" target="_blank" rel="external">REVO uninstaller</a> 完全卸载evernote，然后全新安装，重新同步（注意备份）</p>
+<p><strong>解决方案2（推荐）</strong></p>
+<p>打开注册表编辑器，在搜索程序文件框上输入regedit<br>然后编辑菜单-查找E190C，找到后删除E190C2EAF5FC03E468956D042EA3B899。<br>然后就可以重新升级了。</p>
+<p>P.S.  亲测只删除这一条可行，也有人说同时也要删除4C8BBCC8-8363-11E2-A3F4-984BE15F174E</p>
+<p><strong>解决方案3</strong></p>
+<p>打开文件夹 C:\Program Files (x86)\Evernote\Evernote<br>在命令提示符（管理员）模式下输入：regsvr32.exe /u EvernoteOL.dll<br>重新安装</p>
+<p><strong>解决方案4</strong></p>
+<p>打开C:\Users\USERNAME\AppData\Local\Evernote\Evernote\AutoUpdate<br>运行. (这里应该会失败)<br>在命令提示符（管理员）模式下输入： regsvr32.exe /u EvernoteOL.dll<br>在此用户下安装 C:\Users\USERNAME\AppData\Local\Temp\Evernote.msi</p>
+<p>参考：</p>
+<p><a href="http://discussion.evernote.com/topic/36401-windows-error-code-2732-workarounds/" target="_blank" rel="external">Windows Error Code 2732 workarounds</a></p>
+<p><a href="https://www.evernote.com/shard/s16/sh/9a4431fd-9eea-4730-8a5d-df4489e507ab/8fee12b82a53133b63fc482cd230c987" target="_blank" rel="external">Windows Error 2732</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 技巧 </tag>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[拿什么取代你，我的Google Reader]]></title>
+      <url>http://nengtalk.com/2013/04/02/goodbye-google-reader/</url>
+      <content type="html"><![CDATA[<p>原谅我，Google Reader，我没有办法拯救你，我能做的，只有去挑选你的继承人。<a id="more"></a></p>
+<p><img src="https://farm9.staticflickr.com/8650/16624407665_d4a8d7547b_o.jpg" alt=""></p>
+<p>不知道从什么时候开始，这个东西成为我的生活中不可或缺的一部分了。一直不会以为他会关闭，没想到这么快就收到了噩耗。</p>
+<p>查了下趋势，发现了这张统计，就说说和GR的故事。</p>
+<p><img src="https://farm9.staticflickr.com/8595/16624407715_90585a19f2_o.jpg" alt="82"></p>
+<p>2010年12月3日，到今天不过才两年多的光景，那个时候刚刚进入大学，也刚刚接触RSS这种新鲜事物，最开始的时候，是使用各种的邮件客户端，工欲善其事，必先利其器，所以把当时差不多所有的邮件客户端都用个遍吧，不过一直没找到一个中意的。（其实我的要求很好满足的，清爽、美观，具有日历和RSS订阅功能，这就足够了，只可惜一直没遇到中意的），再后来，就专注于Gmail+Chrome了。当然，出于对Google的喜爱，也投入了Reader的怀抱。那个时候最常做的就是导入导出，直到用上Reader。</p>
+<p>大一上半年没带电脑，所以使用的次数也不是很多，真正用起来应该是那年寒假了吧，前面的事情真的是记不清了，只是记得当时全方面依赖Chrome，用各种拓展把他的速度拖到极慢。那个时候订阅虽多，但看的很少吧。</p>
+<p>真正把Google Reader用起来，应该是在12年暑假，当我开始使用iPad 3——这个无可比拟的阅读工具，在Retina屏幕的映衬下，所有的文字都是那么的细腻动人，Reeder（这货在我今天写这篇文章的时候迟到的<a href="http://i7298.com/archives/62" title="我的限免精品推荐" target="_blank" rel="external">限免</a>了）和Mr.Reader轮流成了我阅读的主力，相比于Flipboard，feedly那种瀑布流，图文式的展现方式，我更喜欢专注于标题。</p>
+<p>不管怎样，GR就这样走了，我还有三个月的时间去改变我的习惯，去找寻适合我的GR的接班人。</p>
+<p>最后，说说已经进入我考察列表的替代品们</p>
+<p>Feedly，这货在GR关闭之后据说用户量迅猛增长，又据说速度很慢</p>
+<p>Google Currents ，很早以前就装了，不过还是不习惯，很大一部分原因还是速度慢的无法忍受</p>
+<p>鲜果，据说这货在国内做的算是相当不错的了，因为专注，所以专业么</p>
+<p>不写了，伤心啊，扔两个总结的不错的文章吧</p>
+<p>小众软件：<a href="http://www.appinn.com/windows-rss-reader/" target="_blank" rel="external">Windows/OS X 下的 RSS 阅读器推荐</a></p>
+<p>异次元：<a href="http://www.iplaysoft.com/rss-reader.html" target="_blank" rel="external">寻找好用的 Google Reader 谷歌阅读器替代品 - 在线RSS阅读器+离线订阅客户端工具推荐</a></p>
+<p>月光博客：<a href="http://www.williamlong.info/archives/3408.html" target="_blank" rel="external">http://www.williamlong.info/archives/3408.html</a></p>
+<p>&nbsp;</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Google </tag>
+            
+            <tag> Reader </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[也说老罗的锤子——钱途不够光明，但至少还有希望]]></title>
       <url>http://nengtalk.com/2013/03/29/about-smartisan-with-hope-without-money/</url>
       <content type="html"><![CDATA[<p>你们谁借我一锤子。在熬完老罗将近三个小时的发布会之后，我彻底无奈了，沉淀了两天，今天也来说说老罗的锤子。（听说周一要出高清视频了，先写着吧，没准写写就脱到周一了，有错误到时候再说，话说剪完还大约两个小时，真愁人）<a id="more"></a></p>
@@ -164,6 +1184,446 @@ $ git clone https://github.com/viosey/hexo-theme-material.git material</code></p
         <categories>
             
             <category> 科技 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 手机 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[在VS2010配置OpenGL编译环境]]></title>
+      <url>http://nengtalk.com/2013/03/26/opengl-in-vs2010/</url>
+      <content type="html"><![CDATA[<p>换完SSD重装的win 8，VS2012实在是太大了，尽管安装时候能勾掉的都勾掉，但还是觉得不爽，刚好看到<a href="http://www.microsoft.com/visualstudio/chs/downloads#d-2010-express" target="_blank" rel="external">Visual C++ 2010 Express</a>，应该足够我用了，图形学要用到OpenGL，相比于VC6和32位系统，配置都发生了些变化，找了下资料，配置完毕。记录一下。<a id="more"></a></p>
+<blockquote>
+<p>用强大的 Visual C++ 语言构建定制应用程序。在构建原生 Windows (COM+) 应用程序或 .NET Framework 托管的 Windows 应用程序时，Visual C++ 提供深入细致的掌控。<br>Visual C++ 2010 中已经提供了对 OpenGL 库的支持，这里主要需要配置的是 GLUT。GLUT 是一个与窗口系统无关的工具包，当我们在写 OpenGL 程序时，可以通过 GLUT 实现简单的窗口的创建等操作，免去了学习特定 OS 下 GUI库的过程。<br>glut下载地址:</p>
+</blockquote>
+<p><a href="http://www.opengl.org/resources/libraries/glut/glutdlls37beta.zip" target="_blank" rel="external">http://www.opengl.org/resources/libraries/glut/glutdlls37beta.zip</a></p>
+<p>将下载的文件解压后，将把里面的文件移动到以下文件夹</p>
+<p>glut.h —&gt; C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Include\gl<br>glut.dll,glut32.dll —&gt;C:\Windows\SysWOW64 (64位操作系统)<br>—&gt; C:\Windows\System32 (32位操作系统)</p>
+<p>glut.lib,glut32.lib —&gt; C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib</p>
+<p>以上，配置成功！</p>
+<p><strong>OPENGL 应用示例</strong></p>
+<p>1.打开 VS2010，新建一个”win32 console application”空工程，假设工程名 gltest.</p>
+<p>2.设置工程属性：</p>
+<p>点击 项目-&gt;属性,进入设置框;选择”链接器”-&gt;”输入”-&gt;”附加依赖项”编辑” 附加依赖项”,添加库文</p>
+<p>件opengl32.lib;glut32.lib;glu32.lib。</p>
+<p>3.然后在工程中新建一个文件，假设为 main.cpp,并将下面代码复制到该文件.编译、执行，如果无误运行结构，说明工程属性配置成功。</p>
+<pre>#include &lt;gl\glut.h&gt; 
+void myDisplay(void) 
+{     
+    glClear(GL_COLOR_BUFFER_BIT);     
+    glRectf(-0.5f, -0.5f, 0.5f, 0.5f);     
+    glFlush(); 
+}  
+int main(int argc, char *argv[]) 
+{ 
+        glutInit(&amp;argc, argv); 
+        glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE);     
+    glutInitWindowPosition(100,100);     
+    glutInitWindowSize(400,400);     
+    glutCreateWindow("第一个OpenGL程序");     
+    glutDisplayFunc(&amp;myDisplay);     
+    glutMainLoop();     
+    return 0; 
+}</pre>]]></content>
+      
+        <categories>
+            
+            <category> 学业 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 知识 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[给SSD准备的那些软件]]></title>
+      <url>http://nengtalk.com/2013/03/13/softwares-for-ssd/</url>
+      <content type="html"><![CDATA[<p>三棒的840已经到手，光驱架还在路上，趁热找一些和SSD相关的软件吧，包括优化、检测、测速之类的<a id="more"></a></p>
+<p><strong>1、优化软件</strong></p>
+<p><strong>Samsung SSD Magician
+</strong>Samsung SSD Magician功能比Intel Toolbox更为强大，专门为三棒的SSD打造<strong>
+</strong></p>
+<p>功能强大，优化软件其实这一个就够了</p>
+<p>点这里去下载</p>
+<p><strong>2、测试软件</strong></p>
+<p>乱入：<a href="http://www.expreview.com/19604-26.html" target="_blank" rel="external"><strong>如何读懂测试数据</strong></a></p>
+<p>我们来谈谈怎么看测试软件所得出的结果，以AS SSD Benchmark为例，软件可以测出SSD的连续读写速度、4KB随机读写速度、QD64时的随机读写速度，另外还有平均访问时间和软件测试得分，在这些数据中比较重要的是连续读写和4KB随机读写的速度，4K QD64在日常操作中很少碰到，而AS SSD的得分对两个随机测试结果看得非常重，所以这个得分其实没什么参考价值的，看看即可。</p>
+<p>就AS SSD而言，它是这样测试的：</p>
+<p>持续读写测试，AS SSD会先以16MB大小为单位，持续向受测分区写入生成1个达到1GB大小的文件，然后再以同样的16MB为单位读取，最后算出平均成绩而给出结果。</p>
+<p>4K随机单队列深度测试，软件会以512KB的单位生成1GB大小的测试文件，然后在这个文件的LBA地址范围内以4KB单位大小进行随机写入及读取测试，直到跑遍这个范围为止，最后同样计算平均成绩给出结果。</p>
+<p>4K随机64队列深度测试，软件则会生成64个16MB大小的测试文件，然后同时以4KB为单位，同时在这64个文件中进行写入和读取测试，最后依然以平均成绩为结果。</p>
+<p>由于AS SSD Benchmark这样的测试软件比较流行，而且连续读写性能是排在最上面，再加上厂商的数据上的“推波助澜”，以至于很多玩家看SSD的性能只看连续读写的成绩，实际上对于SSD来说，4K随机性能更为重要，尤其是将SSD当作系统盘时。</p>
+<p>另外一个问题，根据一些调查数据，SSD在读和写的操作上，读的操作是明显多于写操作的，这个比例在10~20:1的水平，所以，对于SSD的性能，先要看4K随机读的成绩，再看4K随机写和连续读的成绩，连续写的能力其实是排到最后的。</p>
+<p>现在这些SSD都是支持SATA 6Gbps接口的，SATA 6Gbps的理论极限速度约为572MB/s（6000000000/10/1024/1024），目前用ATTO可能跑到550MB/s左右的最高速度（用SandForce主控跑100%可压缩数据），大多数的主流SSD的连续性能会有500+MB/s，但连续写入速度现在还难以突破500MB/s（不可压缩数据）。</p>
+<p><strong><strong>HD Tune Pro </strong></strong></p>
+<p>　　HD Tune是一款硬盘性能诊断测试工具。它能检测硬盘的传输率、突发数据传输率、数据存取时间、CPU 使用率、健康状态，温度及扫描磁盘表面等。另外，还可详细检测出硬盘的固件版本、序列号、容量、缓存大小以及当前的传送模式等。</p>
+<p><strong>AS SSD Benchmark</strong></p>
+<p>AS SSD Benchmark是一个专门为SSD测试而设计的软件。可以测试出固态硬盘的持续读写性能，包括4KB小文件的传输性能等等，成绩显示可以分为两种，一种是MB/S的形式，另一种是IOPS形式。</p>
+<p><strong>CrystalDiskMark</strong></p>
+<p>CrystalDiskMark是一款能测试硬盘读取/写入速度、4KB/512K的随机读取/写入速度，还能更换测试数据，如默认的随机、All 0X00和All 0XFF</p>
+<p><strong>ATTO Disk Benchmark</strong></p>
+<p>ATTO Disk Benchmark是一款优秀且免费的磁盘基准测试软件，支持对稳定性/突发性传输速率进行读写测试，适用于常规硬盘、RAID、USB闪存盘、移动存储卡等产品的读写性能测试。</p>
+<p><strong>Anvil’s Storage Utilities测试</strong></p>
+<p>　　Anvil’s Storage Utilities是一个专门为SSD测试而设计的软件，它正在迅速成为最新的事实上的硬盘和固态硬盘标准检测程序之一，因为它提供了很大的可定制性。应用户要求，这项标准检测程序已经被添加到ServeTheHome的测试程序中。它提供类似 AS SSD Benchmark 测试结果汇总得分功能。</p>
+<h3 id="CrystalDiskInfo"><a href="#CrystalDiskInfo" class="headerlink" title="CrystalDiskInfo"></a>CrystalDiskInfo</h3><p>CrystalDiskInfo 简称 CDI，它主要的功能不是用于测试性能，而是一款实用的硬盘健康诊断工具，启动它之后你就可以直观地检查硬盘的全部健康状态、温度以及更多一些相关的资料。它除了支持一般的机械硬盘之外，也支持 SSD 固态硬盘甚至部分移动硬盘。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 数码 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 应用 </tag>
+            
+            <tag> SSD </tag>
+            
+            <tag> 电脑 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[2013观影日记]]></title>
+      <url>http://nengtalk.com/2013/03/01/movies-watched-in-2013/</url>
+      <content type="html"><![CDATA[<p>谨以此文记录2013被我看过的电影们<a id="more"></a></p>
+<p>1、007：大破天幕杀机 Skyfall 2.27<br><a href="http://movie.douban.com/photos/photo/1837291070/" target="_blank" rel="external"><img src="http://img3.douban.com/mpic/s12620955.jpg" alt="skyfall"></a></p>
+<p>好像是印象中第一次完完整整的看完一部007吧，50年来第一次，不错</p>
+<p>邦德老了，邦女郎酱油了，M最后挂了，Q宅的很出彩</p>
+<p>精彩的动作片，Adele的主题曲也很赞</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>2、逃离德黑兰 Argo 2.27</p>
+<p><a href="http://movie.douban.com/subject/6549903/" target="_blank" rel="external"><img src="http://img3.douban.com/mpic/s24510981.jpg" alt="逃离德黑兰"></a>跟风看的奥斯卡的最佳影片，政治色彩很浓的一个片子，尤其是在现在这个时间段</p>
+<p>内部和外部的阻力保证了剧情的紧张感，最后一秒钟的老套手法也并不让人感到厌烦</p>
+<p>我承认我阅历太浅，远没有奥斯卡那帮老家伙们看的深（照豆瓣就差的更远了……）</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>3、霍比特人1：意外之旅 The Hobbit: An Unexpected Journey    3.01</p>
+<p><a href="http://movie.douban.com/subject/1966182/" target="_blank" rel="external"><img src="http://img3.douban.com/mpic/s22688032.jpg" alt="The Hobbit: An Unexpected Journey"></a> 依然是那么磅礴，依然是那么恢弘</p>
+<p>尽管胃口已经被指环王吊得很高，但还是对这部影片大赞</p>
+<p>期待着第二部</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>4、云图 Cloud Atlas  3.09</p>
+<p><a href="http://movie.douban.com/subject/3530403/" target="_blank" rel="external"><img src="http://img3.douban.com/mpic/s22705883.jpg" alt="云图"></a>好长……六个故事一起讲，不得不说导演超高的剪辑技艺</p>
+<p>看之前曾被告知非常之难懂于是专注的看剧情，看完感觉还好，要是有像少年派那样深度解析再另说……至少表面上是懂了。</p>
+<p>冥冥之中自有天意，转世轮回，不管未来如何，其实只需要关注当下。</p>
+<p>没有必要把这部片子上纲上线，虽然这部片子要表达的东西实在是太多太多。</p>
+<p>有个好词——六道轮回</p>
+<p>5、悲惨世界 Les Misérables</p>
+<p><a href="http://movie.douban.com/subject/6860160/" target="_blank" rel="external"><img src="http://img3.douban.com/mpic/s22704645.jpg" alt=""></a>音乐才是人类共同的语言。<br>It is the music of a people<br>Who will not be slaves again!<br>When the beating of your heart<br><em><em id="__mceDel">Echoes the beating of the drums
+</em></em><em><em id="__mceDel"><em id="__mceDel"><em id="__mceDel"><em id="__mceDel">There is a life about to start
+</em></em></em></em></em><em><em id="__mceDel"><em id="__mceDel"><em id="__mceDel"><em id="__mceDel"><em id="__mceDel">                             When tomorrow comes!</em></em></em></em></em></em></p>
+<p>&nbsp;</p>
+<p>6、海军陆战队：国土防线 The Marine 3 Homefront</p>
+<p><a href="http://movie.douban.com/subject/21372181/" target="_blank" rel="external"><img src="http://img3.douban.com/mpic/s25799955.jpg" alt=""></a>海军陆战队3，抱歉我没看过1和2……</p>
+<p>老套的剧情，美国式的英雄，一个人足矣</p>
+<p>都在议论抗日剧拍得烂，完全是有缘故的</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>7、V字仇杀队 V for Vendetta  4.3</p>
+<p><a href="http://movie.douban.com/subject/1309046/" target="_blank" rel="external"><img src="http://img3.douban.com/mpic/s1884078.jpg" alt=""></a></p>
+<p>06年3月17日上映的电影，已经七年多了 。</p>
+<p>太多的人给这部电影添加了太多的外在的意义，为了其中的几句台词给了超出电影本身的评价</p>
+<p>不得不说的是，当电影最后，无数的V涌向大楼的时候，是被彻底打动的一刻。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>8、钢铁侠 Iron Man  4.29</p>
+<p><a href="http://movie.douban.com/subject/1432146/" target="_blank" rel="external"><img src="http://img3.douban.com/mpic/s2963790.jpg" alt="钢铁侠 Iron Man" title="钢铁侠 Iron Man"></a>老片子了，为了五一去看钢铁侠3现补的，虽然是老套的动作快餐超级英雄，但看着还是很过瘾的，电影嘛，看得开心就好</p>
+<p>原来神盾局的头子在这集里就已经有出现了，好大的手笔</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>9、钢铁侠2 Iron Man 2  4.29</p>
+<p><a href="http://movie.douban.com/subject/3066739/" target="_blank" rel="external"><img src="http://img4.douban.com/mpic/s4234948.jpg" alt="钢铁侠2 Iron Man 2"></a>连着补两个大手笔的大片，看得还是很过瘾的，这集里连雷神的锤子都出来了，汗……</p>
+<p>看得挺开心的，期待3</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>10、钢铁侠3 Iron Man 3   5.1</p>
+<p><a href="http://movie.douban.com/subject/3231742/" target="_blank" rel="external"><img src="http://img3.douban.com/view/movie_poster_cover/spst/public/p1955027201.jpg" alt="钢铁侠3 Iron Man 3"></a>五月一日下午，观于百丽宫巨屏厅</p>
+<p>好震撼，巨屏和音响都相当棒，感觉比在电脑前好了不是一点半点</p>
+<p>范爷打得一手好酱油，中国特色版略拙计啊，以后估计还得再补一下，至少是补补彩蛋</p>
+<p>这部片子怎么说，置之死地而后生，就着爆米花太棒了</p>
+<p>&nbsp;</p>
+<p>11、中国合伙人  American Dreams in China  5.18</p>
+<p><a href="http://movie.douban.com/subject/11529526/" target="_blank" rel="external"><img src="http://img3.douban.com/view/movie_poster_cover/spst/public/p1959304567.jpg" alt="中国合伙人"></a>恰当的时候出现的一部恰当的片子。</p>
+<p>对于这部片子，我想说的是，影片的现实意义远大于故事的本事。</p>
+<p>观于新世纪电影城玉涵银座店</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>12、西游降魔篇 Journey to the West: Conquering the Demons / Odyssey</p>
+<p><em><a href="http://movie.douban.com/subject/5308265/" target="_blank" rel="external"><img src="http://img3.douban.com/mpic/s24423024.jpg" alt="西游降魔篇"></a></em>         额，电影是用了几节课的世界陆陆续续的看完的，的确没什么吸引我的地方，中间断断续续的，应该说是总算是看完了，如同任务一般。</p>
+<p>为了看个mkv的电影把iPad的播放器折腾个遍，很无语，但到最后还是找到了——看这部片子最大的收获。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>13、不二神探  Badges of Fury 6.22</p>
+<p><a href="http://movie.douban.com/subject/10604486/" target="_blank" rel="external"><img src="http://img3.douban.com/view/movie_poster_cover/spst/public/p2006870496.jpg" alt="不二神探"></a>观于济南鲁信影城（泺源大街店），团购的票，15一张，好便宜</p>
+<p>有好多熟悉的名字，虽然我对不上号……</p>
+<p>中规中矩的片子，卖点就是这些星星了，不过看的很开心</p>
+<p>还有什么比开心更美好呢</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 生活 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 电影 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[WordPress手动升级到3.5.1]]></title>
+      <url>http://nengtalk.com/2013/02/28/update-wordpress/</url>
+      <content type="html"><![CDATA[<p>WordPress3.5.1在后台提示好长一段时间了，由于不能自动升级，就一直没升，忙里偷闲，也实在是由于那个数字1实在是太碍眼，所以今天就手动把wordpress升级到3.5.1，其实也没什么技术难度<a id="more"></a><br><strong>1、备份程序文件和数据库。</strong><br>用Filezilla 把整个public_html文件夹都抓了下来备着，又用Database把数据库也备份了一下，发到邮箱一份，保存到硬盘里一份<br><strong>2、登录后台关闭所有插件。</strong><br>有些插件可能无法与 WordPress 新版本兼容，因此禁用插件再进行升级是最佳选择。升级后再逐一激活插件。<br><strong>3、下载新版WordPress程序。</strong><br>其实就是在后台就下下来了……<br>下载<a href="http://cn.wordpress.org/wordpress-3.5.1-zh_CN.zip" target="_blank" rel="external">WordPress 3.5.1</a><br><strong>4、升级WordPress</strong><br>将根目录下wp-admin和wp-includes两个目录删掉<br>解压新版WP，将里面的这两个文件夹上传到根目录下（手一滑把wp-includes传到wp-admin里面了，结果又重传了一次……）<br>（P.S. wp-content文件夹内的内容不用更改，这里面放的是主题文件，插件文件等。）<br>接着替换根目录下除wp-config.php文件以外的文件。<br><strong>5、运行<a href="http://你的博客地址/wp-admin/upgrade.php" target="_blank" rel="external">http://你的博客地址/wp-admin/upgrade.php</a></strong><br>进后台把所有插件再重新启用就OK了<br>大功告成！</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> wordpress </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[关于TangStyle主题的学习和修改]]></title>
+      <url>http://nengtalk.com/2013/02/21/learn-about-tangstyle/</url>
+      <content type="html"><![CDATA[<p>无意中发现了这个非常对我口味的主题——<a href="http://tangjie.me/tangstyle" target="_blank" rel="external">TangStyle</a>，这篇文章就简单记录一下对这个主题的学习和修改吧<a id="more"></a><br>之前没太研究过php，现在也只能干点鸡毛蒜皮缝缝补补的小活了，不过也总算是干了<br>1、侧边栏的修改<br>侧边栏唐大的默认设置做的很出色了，能做的改动也只是改一下栏目名，调整一下顺序，对了，还放了一个微博的小挂件<br>相关的文件 sidebar.php sidebar-category.php sidebar-single.php<br>未完成的项目<br><del datetime="2013-02-21T05:30:18+00:00">计划中 流行 模块下的文章数要改成5篇，这个还没做……</del><br>删除线的颜色还不知道去哪改<br>2、文章顺序<br>模版的默认排序是按照发布时间来的，简单的修改了一下，改成<a href="http://i7298.com/archives/55" title="实现WordPress文章按修改时间排序" target="_blank" rel="external">按最后编辑时间排序</a><br>3、解决图片环绕问题<br>在wordpress编辑器中能够自由控制图片的居左居右居中显示，而且是文字围绕着图片，然而到了前台就无法显示<br>解决方法<br>在style.css中加入如下代码</p>
+<pre>/*Alignment*/
+.alignleft {
+display:inline;
+float:left;
+margin-right:1.625em;
+}
+.alignright {
+display:inline;
+float:right;
+margin-left:1.625em;
+}
+.aligncenter {
+clear:both;
+display:block;
+margin-left:auto;
+margin-right:auto;
+}</pre>
+4、文字的排版还需要抽空解决一下
+
+5、友情链接
+<pre>
+<div class="widget nowrap">
+
+### 我的朋友们
+
+</div>    
+</pre>
+
+<p>6、暂时窝也想不起来了，以后再说</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> wordpress </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[实现WordPress文章按修改时间排序]]></title>
+      <url>http://nengtalk.com/2013/02/16/query-by-modified/</url>
+      <content type="html"><![CDATA[<p>WordPress下的默认排序是按照发布时间排序，但其实还是按修改时间排序来的比较合理，尤其是像我这种挖坑党，简单搜了一些资料，然后就把文章列表改成按修改时间排序的了<a id="more"></a><br>1、打开WordPress当前主题目录，打开index.php，搜索代码：</p>
+<pre>
+<?php
+while ( have_posts() ) : the_post(); ?>
+</pre>
+2、在while的前面插入下面几行代码
+<pre>
+$paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
+$args = array(
+        'orderby' => modified,
+        'showposts' => 10,
+        'paged' => $paged
+        );
+query_posts($args);
+</pre>
+3、继续搜索
+<pre>
+<?php endwhile;?>
+</pre>
+
+<p>4、将其替换为</p>
+<pre>
+<?php endwhile; wp_reset_query();?>  
+</pre>
+
+<p>保存，刷新，大功告成！</p>
+<p>p.s.<br>1、根据orderby的值不同，可以让文章按照很多种方式进行排序，下面是列举几个常见的值及其对应的排序方式:<br>title：按标题；<br>date：按发布日期；<br>modified：按修改时间；<br>ID：按文章ID；<br>rand：随机排序；<br>comment_count：按评论数<br>2、如果你同时想修改标签页、分类页等存档页面的文章排列顺序的话，同样可以按照上面的方法修改主题目录下的archive.php等。</p>
+<p>参考文档：<a href="http://www.ludou.org/wordpress_query_posts.html" target="_blank" rel="external">WordPress函数query_posts用法汇总</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> wordpress </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[不用信用卡，免费注册中美日新等国家地区的iTunes store账号]]></title>
+      <url>http://nengtalk.com/2013/02/14/resigter-itunes-without-credict-card/</url>
+      <content type="html"><![CDATA[<p>这篇文章主要介绍如何不用信用卡就能够直接免费注册中国、美国、日本、新西兰等国家和地区的iTunes账号，方法很简单，而且可以举一反三。<a id="more"></a><br>首先说说为什么要这四个区的账户<br>中国区——本地化最好的地区，里面应用较丰富<br>美国区——为了某些不在中国上架的应用，比如Gmail、Google earth等等<br>日本区——有很多日本厂商的应用只在日本上架，比如乐动魔方、太鼓达人等等<br>新西兰——全球最早进入新的一天的国家之一，所以很多应用游戏都是第一时间在新西兰区上架，比如昨天刚刚上架的真实赛车3，其他地区可能要等到28号……<br><img src="http://bcs.duapp.com/picstore/BTkRKk0mTH.jpg" alt="Real Racing 3"></p>
+<p>其实，注册方法是一致的，注册过中国区之后也很容易注册其他地区的账号，过程上简单来讲就是1、挑选免费应用——2、购买——3、选择地区——4、确认协议——5、填写注册账号、密保问题、生日、备份邮箱——6、填写地址、电话——7、验证账号，不同的只是语言而已，其实也就只有中英日三种语言。</p>
+<p>这里需要强调的一点是，现在注册美国区账号需要使用美国ip代理，直接注册会失败，而日本区和新西兰区都可以直接注册，163、sina、gmail等邮箱都是可以的。</p>
+<p>关于上面提到的七步，其实最困难的是第六步，地址填写起来挺麻烦的，一个还不错的方法就是去查一些当地的大学地址，或者酒店，风景区，<del datetime="2013-02-14T01:22:24+00:00">大使馆</del>什么的，另一个方法就是直接使用下面我搜集到的地址</p>
+<p>中国区<br>这个……就不再多说了<br>美国区<br>Beth Purcell<br>1799 Branson Rd. Kansas City,<br>MO, 64104 </p>
+<h2 id="816-422-6162-MO-missouri"><a href="#816-422-6162-MO-missouri" class="headerlink" title="816-422-6162 MO=missouri "></a>816-422-6162 MO=missouri </h2><p>Louis Gean<br>3732 Sherwood St. Boston,<br>MA, 02100 </p>
+<h2 id="617-832-3639-MA-massachusetts"><a href="#617-832-3639-MA-massachusetts" class="headerlink" title="617-832-3639 MA=massachusetts "></a>617-832-3639 MA=massachusetts </h2><p>Gina Nunn<br>1817 Garlston Dr. Tulsa,<br>OK, 74107<br>918-203-5864 OK=oklahoma<br>三个里面挑一个就行<br>当然，你也可以去<a href="http://zh-cn.fakenamegenerator.com/" target="_blank" rel="external">随机生成</a>一个美国人的信息</p>
+<p>日本区<br>小泉　　純一郎　　<br>コイズミ　　ジュンイチロウ<br>160-0002<br>東京都    新宿区<br>坂町<br>03 77443360</p>
+<p>更多的日本地址什么的可以参考<br><a href="http://steachs.com/japan.htm" target="_blank" rel="external">引用1</a><br>邮编地址什么的也可以参考<br><a href="http://postcode.goo.ne.jp/prefecture/%C5%EC%B5%FE%C5%D4/city/%BF%B7%BD%C9%B6%E8/kind/3/kana/0/" target="_blank" rel="external">引用2</a></p>
+<p>新西兰区<br>Address  236 Majoribanks Street<br>Suburb   Mount Victoria<br>Postcode   6011<br>城市   WELLINGTON<br>电话   0064-93091188</p>
+<p>基本上按照上述地址注册就没有什么问题了，注册完成后检查一下邮件就行啦<br>最后，have fun<br><img src="http://bcs.duapp.com/picstore/9gtjmRimtQ.jpg" alt="RR3"></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> iPad </tag>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 分享 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[死宅的那些网站和RSS]]></title>
+      <url>http://nengtalk.com/2013/02/03/recommond-of-websites-and-rss/</url>
+      <content type="html"><![CDATA[<p>与其说这篇文章是一个推荐，倒不如说是我自己的一个收藏夹……<br><a href="https://www.google.com/reader/" target="_blank" rel="external">Google Reader</a>是一个好东西，Mr.Reader是一个优秀的iPad客户端……<a id="more"></a><br>慢慢地，开始，碎碎念<br><a href="http://cn.engadget.com/" target="_blank" rel="external">Engadget 中国版</a> 算是比较全的it资讯站了<br><a href="http://www.ipc.me/" target="_blank" rel="external">iPc.me</a> 分享互联网的精彩<br><a href="http://www.iplaysoft.com/" target="_blank" rel="external">异次元软件世界</a> 里面不少好软件推荐<br><a href="http://www.phonekr.com/" target="_blank" rel="external">锋客网</a> 最近新发现的一个网站，很值得一看，文章的见解很到位<br><a href="http://www.zoopda.com/" target="_blank" rel="external">煮机网</a> 应该是某个时候看他们和老罗斗的时候发现的一个精致的网站<br><a href="http://www.hitsapp.com/" target="_blank" rel="external">HITSAPP</a> 主要是爪机应用推荐<br><a href="http://sspai.me/" target="_blank" rel="external">少数派</a> 移动设备应用推荐<br><a href="http://www.icoony.com/" target="_blank" rel="external">体验铺</a> 高手都是玩潜伏的<br><a href="http://www.yuewei.net/" target="_blank" rel="external">阅微博客</a> 阅微知著，见贤思齐<br><a href="http://www.x-berry.com/" target="_blank" rel="external">软矿</a> 工欲善其事，必先利其器<br><a href="http://www.guao.hk/" target="_blank" rel="external">谷奥</a> 谁叫我是Google控<br><a href="http://www.appinn.com/" target="_blank" rel="external">小众软件</a> 顾名思义<br><a href="http://sand-ox.com/" target="_blank" rel="external">沙牛之家</a><br><a href="http://www.apple4.cn/" target="_blank" rel="external">惜墨</a> 简化生活<br><a href="http://www.williamlong.info/" target="_blank" rel="external">月光博客</a> 老牌子了<br><a href="http://jandan.net/" target="_blank" rel="external">煎蛋</a> 这个也不用多说了，挺有意思的<br><a href="http://my1510.cn/" target="_blank" rel="external">一五一十部落</a> 涨姿势<br><a href="http://www.gtdlife.com/" target="_blank" rel="external">GTDLife</a> 时间管理<br><a href="http://www.zhantuo.com/" target="_blank" rel="external">战拖会</a> 挑战拖延症<br><a href="http://xbeta.info/" target="_blank" rel="external">善用佳软</a> 学学怎么用好软件<br><a href="http://www.pingwest.com/" target="_blank" rel="external">PingWest</a> 前沿科技媒体<br><a href="http://www.yunkeji.com/" target="_blank" rel="external">云科技</a> 文章质量颇高<br><a href="http://www.smzdm.com/" target="_blank" rel="external">什么值得买</a> 花钱淘便宜<br><a href="http://ibeidou.net/" target="_blank" rel="external">北斗</a> 网络，人文，新生活<br><a href="http://www.hexieshe.com/" target="_blank" rel="external">和谐社</a> 很和谐的，咳咳<br><a href="http://www.dgtle.com/forum.php" target="_blank" rel="external">数字尾巴</a> 毒啊，看着满眼是羡慕<br><a href="http://www.geekpark.net/" target="_blank" rel="external">极客公园</a> 差点把这个好地方忘了<br><a href="http://www.guomii.com/" target="_blank" rel="external">果迷网</a> 虽然苹果的新闻遍天下，总得找个高质量的地方看看<br><a href="http://dapenti.org/blog/index.asp" target="_blank" rel="external">喷嚏网</a> 8小时外的健康生活<br><a href="http://www.zreading.cn/" target="_blank" rel="external">左岸读书</a> 成功源自积累<br><a href="http://cnpolitics.org/" target="_blank" rel="external">政见</a><br><a href="http://www.mifengtd.cn/" target="_blank" rel="external">褪墨</a> 把事情做到更好<br><a href="http://www.guokr.com/" target="_blank" rel="external">果壳</a> 科技有意思<br><a href="http://ikandou.com/" target="_blank" rel="external">爱看豆</a> 刚刚发现的一个电子书网站，主要以适配kindle的为主</p>
+<p><a href="http://www.leshare.org/ebook-search-methods.html" target="_blank" rel="external">电子书寻找方法汇总</a></p>
+<p><a href="http://gate.guokr.com/" target="_blank" rel="external">果壳任意门</a>，这个导航站做的好啊</p>
+<p>—-未完待续—-</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 互联网 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 推荐 </tag>
+            
+            <tag> RSS </tag>
+            
+            <tag> 宅 </tag>
+            
+            <tag> 收藏 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[细数我的iPad里的那些应用]]></title>
+      <url>http://nengtalk.com/2013/01/31/applications-in-my-ipad/</url>
+      <content type="html"><![CDATA[<p>iOS6.1的越狱据说这个周末就要出了，而且如果越狱的话需要完整的刷一下，我这图省事的OTA估计要做无用功，既然要重刷，就在这儿记录一下我iPad里的那些应用。<a id="more"></a><br>盘点之前不得不说的两个软件<br><a href="http://www.kuaiyong.com/" target="_blank" rel="external">快用苹果助手</a>    应该是这类软件的始祖了，的确是很好用的软件，而且有着很好的创意和交互，只是需要闪退修复的频率有些高了。<br><a href="http://pro.25pp.com/" target="_blank" rel="external">PP助手</a>    相比而言，pp助手从快用中学到了很多，也做的更加出色，所以我一直在用这个管理某些应用，软件更新的也很及时。<br>不是我不想买正版，我会努力的收限免。<br>本来以为没多少，刚看了一下，居然有128个应用之多，刨去游戏也能凑够100个，那就大致说说吧。<br><strong>一、自家东西</strong><br>1~2、<a href="https://itunes.apple.com/cn/app/cha-zhao-wo-de-peng-you/id466122094?mt=8" target="_blank" rel="external">查找朋友</a> <a href="https://itunes.apple.com/cn/app/cha-zhao-wo-de-iphone/id376101648?mt=8" target="_blank" rel="external">查找我的 iPhone</a> 主要用来闲着没事的时候检查一下朋友们的工作，虽然定位上存在漂移……<br>3~5、iWork三件套 Pages、Numbers、Keynote，不多说，的确好用，不知道今年微软的office for ios什么样；<br>6~7、iPhoto、iMovie，自家的东西都是诚意十足，不过价钱也都够狠<br>7~9、iTunes U、Podcast、iBooks 都是方便好用的良心货，免费的优质产品最良心了<br><strong>二、社交类</strong><br>10~19、QQ、微博、人人、飞信、大众点评、Google+，这些就不多说了，facebook和twitter不太常用，用的时候就上个网页就行了，要说的是还有WeicoPro，这货如果过年还不限免的话我就收了他。还有一个，贴吧客户端，已经吐过槽了，到现在还没有HD版；再有就是Gmail，从美国区拉回来的，和自带的邮件相辅相成了；<br><strong>三、新闻类</strong><br>iPad的最大的优势还是在于阅读的优良体验，看新闻资讯也是相当的方便。<br>20~21、网易新闻、Flipboard 两款体验非常优秀的新闻聚合，网易的态度和网友的点评都是亮点，Flipboard的本地化做得也非常出色；<br>22~24、中关村在线HD、汽车之家HD 两个针对性很强的客户端，相比网站浏览感觉实在是好太多了；还一个要提的是<a href="https://itunes.apple.com/cn/app/id388097988?mt=8" target="_blank" rel="external">商业价值</a>，排版非常适合iPad，之前也那他和<a href="http://i7298.com/archives/26" title="我理想中的百度贴吧客户端 for iPad" target="_blank" rel="external">贴吧的客户端</a>说事来着<br>25、<a href="https://itunes.apple.com/cn/app/mr.-reader/id412874834?mt=8" target="_blank" rel="external">Mr.Reader</a> 都说Reeder好用，不过我用着这个更加顺手，虽然收过好多限免的RSS阅读器，但都赶不上这个，以后有机会一定要把这个收了，Google Reader用户必备；<br>26、Pocket 虽然这类稍后阅读的软件也有很多，但个人用的最顺手的还是这个，配合相关的工具用的时候真是方便极了。搬过来一篇文章，写的也相当通俗易懂。<a href="http://www.phonekr.com/rss-knowledge/" target="_blank" rel="external">[小白向]善用 RSS、Pocket、IFTTT、Evernote 为自己涨姿势——获取资讯的解决方案分享</a><br><strong>四、书籍类</strong><br>分类基本上都是图标合并时候自动生成的，也就这么写了。<br>27~28、京东LeBook、Kindle 两个电子书客户端，经常会去京东和亚马逊收一些限免回来（我是个穷人……）<br>29~30、豆丁书房、百度文库HD，这两家实在是太想推他们的客户端了，没办法，虽然体验不是太好，也只能勉强用着了；<br>31、一个 偶尔回去看看，里面的东西小清新，还说得过去<br>32、冰块漫画HD，贴吧助手的作者写的，很可惜他写的贴吧客户端没通过审核，不过这个漫画的体验还是很不错的，虽然我也不怎么常看……<br>33、<a href="https://itunes.apple.com/cn/app/zui-chang-xiao-shu-jitop100/id533050880?l=zh&amp;mt=8" target="_blank" rel="external">最畅销Top100</a> 限免时候收的，现在免费了……要不是图方便……<br><strong>五、效率类</strong><br>34~35、SlickTasks、Doit.im，这类2do软件用好一个就够了，多平台的同步是一个重头戏<br>36~38、微盘、百度云HD、金山快盘HD，这三个就不多说了，现在还没发现一个能整合的第三方客户端……<br>39~41、GoodReader、<a href="https://itunes.apple.com/cn/app/documents-by-readdle/id364901807?mt=8" target="_blank" rel="external">Documents</a>（这个现在免费了）、Office助手，iOS端的文件管理一直是个弱项，只能用这几个软件将就一下了，goodreader实在是神器，Documents也是良心十足啊<br>42~43、印象笔记 有道云笔记 印象一直在用，有道从没用过……就是这么个情况<br>44~48、Notability 应该是平时这类软件中用的最多的了，剩下经过一番测试还存留的软件有 Noteshelf、Paper、<a href="https://itunes.apple.com/cn/app/penultimate/id354098826?mt=8" target="_blank" rel="external">墨笔</a>（Penultimate），这个无数人中刀的大作被evernote收了之后就免了……免了……还一个平时玩玩的就是SketchBook了，也只是无聊玩玩<br>49~51、iA writer、Write 2、iNotes，有两个是限免时候收的，iA被公认大作，只可惜我还没找到这三个软件的用武之地<br>52、iThoughtsHD，做思维导图的极品啊，这个是常用的<br>53、Day One 只有在叫日记的软件里写的东西才能算作日记……<br><strong>六、工具类</strong><br>54~57、Chrome、Mercury、海豚浏览器HD、UC浏览器HD，总会在不同的时候偶尔会用上这几个浏览器，当然Safari是主力自不必说<br>58~60、AppZapp Pro、限时免费HD（搞趣）、同步推，应用限免和推荐应用总归是应该有两个的，<a href="http://www.iapps.im/archives/category/device/ipad-device" target="_blank" rel="external">爱Apps</a>也是个好去处；<br>61、<a href="https://itunes.apple.com/cn/app/shi-shi-tian-qi/id464770748?mt=8" target="_blank" rel="external">实时天气</a> 用着非常跟手的一款天气应用<br><strong>七、教育类</strong><br>62~64、iStudiez Pro（这个前两天竟然限免了，大大的良心啊）ClassTable、inClass 这几个都是很优秀的课表软件<br>65、Days Matter 倒数日，和ClassTable出自一门，挺实用的<br>66~67、<a href="https://itunes.apple.com/cn/app/myscript-calculator/id578979413?mt=8" target="_blank" rel="external">MyScript Calculator</a> <a href="https://itunes.apple.com/cn/app/calculator+/id512938416?mt=8" target="_blank" rel="external">Calculator＋</a>类似的计算器实在是太多了，也都经常限免<br>68~69、网易公开课、Ted 这类公开课应用在网速好的地方还是很出彩的<br>70、拓词 很喜欢的一个，有些用途吧，也是限免的收获<br>71、欧路词典 Pro，限免的时候收的，的确好用，一分钱一分货，<del datetime="2013-02-01T03:09:24+00:00">其实有道也说得过去</del><br><strong>八、商业类</strong><br>我也不知道这类到底是怎么分出来的<br>72~73、Foxit PDF、Adobe Reader，两个老牌的PDF软件，不必多说，质量信得过<br>74~75、扫描全能王HD、名片全能王HD，都是实用的好货<br>76、百度地图HD 相比之下，在Google撤了之后，百度的地图还是极好的<br>77、Google 地球，从美国区拉回来的，perfect！<br><strong>九、财务类</strong><br>78、淘宝<br>79~81、中银掌上行、工行网上银行、支付宝HD 这些应用好多还没湿胸retina……<br>82、51信用卡管家HD 倒是挺好用的，不过我还是喜欢手动转发账单<br>83、随手记标准版 总得有个记账的哈<br><strong>十、图影类</strong><br>84、Cooliris 如果有大量图片的话，浏览体验相当优秀<br>85~86、Pinnacle Studio，Snapseed，如果没记错，两个应用都是被大公司收了之后免费放出来了，大厂不差钱<br>87、Pixlr Express+ 前两天限免时候收的，看评价还不错<br>不好意思，没有美图秀秀之流……<br><strong>十一、影音类</strong><br>88~90 优酷HD、PPTV HD、百度视频HD 有点多，也不怎么用，优酷的晓说做的不错<br>91、bilibili动画 无聊的时候可以去看看字幕嘛<br>92~93、RushPlayer、Gplayer，好的视频播放器是不可或缺的<br>94~95、百度音乐HD、酷我音乐HD，体验都不错<br>96、音乐时代 虾米出品，虾米的优势除了丰富的乐库还有网友组起来的精选集<br>97、豆瓣FM 总感觉重复率有点高<br><strong>十二、其他</strong><br>再找三个凑够100好了<br>98、豆果美食HD 菜谱神马的嘛，饿的时候可以看看<br>99、南都Daily 很不错的报纸，给报刊杂志里添了一抹亮色<br>100、三联生活周刊 报刊杂志里又一免费的良心<br>应用就是这些了，剩下的游戏就是仁者见仁，智者见智了，其实我牛排上的很多游戏都是摆着给别人看的……<br>还有哪些有良心的应用呢？</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 数码 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 大学生 </tag>
+            
+            <tag> iPad </tag>
+            
+            <tag> 应用 </tag>
+            
+            <tag> 推荐 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[随便说说那些国产的手机们]]></title>
+      <url>http://nengtalk.com/2013/01/23/talking-about-mobiles-made-in-china/</url>
+      <content type="html"><![CDATA[<p>开拔之前先翻翻那些历史吧<br>2006年7月，中考结束，我也用上了人生中的第一部手机，从老爸手中接过来的MOTO E398，一代神机，那个时候每天就以刷机为乐。<br>2007年1月9日，在Macworld上，乔布斯老先生发布了第一代iPhone，6月29日在美国上市。<a id="more"></a><br>2008年9月23日，Google G1 发布，当时我记得曾在电话里和老爸说，这是个好手机，大屏，侧滑，而且系统的发展前景非常好，比WM6要有前途多了。<br>2008年10月2日，Nokia 5800发布，同样的令人惊艳，如果不是因为……我从那个时候起便叛离MOTO了。<br>2009年2月18日，魅族M8发布上市，我就不说这款07年便放出消息，让人追了两年的魅族第一代机了，现在还值800元呢，这保值水准iPhone都自愧不如。<br>2009年6月，高考，兵败，重走。跟了我三年的398终于完成了他的使命。取而代之的依旧是老爸的淘汰机，MOTO L7，又是一代经典。<br>2009年11月，大概是这个时间段吧，MOTO milestone出现了，或者说那时还只是Droid，总之也差不了几天。因为没时间上网，只是在同学的一本杂志上看到了那款手机的介绍，当时给我的第一印象就是惊艳，一种“这就是我想要的”的感觉。<br>2010年6月，终于熬过了高考，也经过了20多家店铺的比价和逐个同店家的交谈砍价之后，终于以2500多大洋把Milestone纳入麾下。那个时候每天都泡在论坛里，刷机，装应用，更新。手机上最多时候装了快150个应用，256M的内存那时候也没觉得卡。<br>现在，里程碑依然是我的主力机，ps，备用机L7大概是因为电池的问题已经好久开不开机了。经常的工作仍然是刷机……里程碑宝刀未老，还有人在折腾他，我便也在折腾他。<br>当初特别喜欢侧滑机，霸气是一方面，买之前觉得侧滑会非常实用，而且，也不知道那时候从哪看到，全键盘按键多，玩模拟器游戏时方便自定义按键……sigh<del datetime="2013-01-23T14:51:22+00:00">事实上手机用了快三年了我几乎没怎么用到过侧滑的键盘</del><br>虽然用的手机少，但是看的手机多，马上回归正题，说说我眼中的这些国产手机们，点点兵。<br>其实也只是看的多而已。<br>大概的一个顺序：小米、魅族、华为、OPPO、中兴及其他</p>
+<p><strong>一、小米</strong><br>先说小米完全是因为曾经对于miui的喜爱。基本上是从miui给milestone做适配开始我便是一个积极的尝鲜者，那个时候还是在龙猪的itfunz里，当时就对miui在小内存机的适配上有很大的争议，不过我一直跟着用了下来，每个周五都欣喜异常。miui可以算得上是本地化最好的Android系统了，而且可调整性也相当丰富，当然你只是换几个主题就说是发烧就另说了。在电话和短信这两个方面，miui在我的眼中做到了极致。当然这是一年多以前了，好久没用过miui了，现在也不去追求那么多的华丽了，现在在努力使机器流畅，实用，或者说，更像是一部手机。<br>对小米手机的关注也是出于对miui的关注，从抢号开始，然后是漫长的发货期，我那个12W多的号在12月总算到了，在同学那儿也算是见到了真机，其实，炒期货是性价比极高，不炒期货，mi2放到现在，性价比也不错。中规中矩，王自如给他的评价倒是挺不错的。<br><strong>二、魅族</strong><br>之前还说魅族是最保值的手机，M8现在还值800块呢，我里程碑想出都没人要了，<del datetime="2013-01-24T15:39:57+00:00">不过估计有人要我也不会出的</del>，魅族总是喜欢在他自己的圈子里面外，小团体，哈哈。但我总觉得魅族会给人一种神奇的力量，对于品牌的一种迷信，不只是nc粉，是一种膜拜。小米的粉丝也达不到这种境界，这一点上魅族学到了精髓。青出于蓝而胜于蓝。<br>说到魅族，不得不提他的新机MX2，一台优秀的手机，国产手机的典范，创新的smartbar吸引了足够多的眼球与讨论，其实就这个改动而言，不求有功，但求无过吧，魅族基本上做到了这一点。至于那个后盖，闲着没事你开他干什么啊。<br><strong>三、华为</strong><br>对，华为，不知是世界五百强，12年一年华为给了人们很多的惊喜，从荣耀到P1D1，再到荣耀2和今年年初发的机器，都让人看到了一种华为的野心和实力，的确华为也有能力做到这些，虽然有不足，但总是在进步，总是给你以惊喜。不过，华为始终是在坑老客户，这是成长的必经之路。软硬件的磨合上也前些火候，对本质的理解有时候更为重要。<br><strong>四、OPPO</strong><br>把OPPO从一票国产手机厂商中拽出来，完全是因为他们独特的视角，也是独到的，从声音这个看似小众的方向下手，把手机做到精致，给其他厂商提供了一个新的思路，而且，OPPO在女性用户的心目中占有很高的位置，这也是他们的优势。find 5看起来真是一部完美的手机，晶莹剔透，无与伦比。其实没必要那么薄的，增加些电池不好么<br><strong>五、中兴</strong><br>把中兴和其他厂家放一起说了吧，包括联想，其实联想也能单独拿出来说说。这些厂商的手机，基本上是毫无创意、毫无诚意、毫无心意，他们会的只是一味的夸大宣传，只是一味的虚假营销，只是一味的违心数钱，其实他们一直以来的角色也基本都是这样，把中兴拉出来是因为他比起华为来可是差了不少，到现在只是会做合约机。<br>其实，国产手机商们需要走的路还有很多，创新和研发需要一点一点来，用户也不是傻子，小米的成功也不是不可以模仿，华为的成熟也不是可以视而不见。<br>与其从农村到城市，不如从城市到农村，有了中高端的口碑，其实更容易做低端市场。<br>ps.在中国，双卡双待是一个很大的蛋糕，高端那部分还没有人去动刀子。<br>最后是一个我期待的手机配置 目标人群在四十岁以上<br>8064+2G+800W+双卡双待+4.3寸（窄边框的话可以到4.5）720P+大电池（真的，没有必要那么薄也会有很好的市场，1cm厚就挺薄了）<br>关于文中提到的机器都是道听途说，基本上我都没摸过。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 数码 </category>
             
         </categories>
         
