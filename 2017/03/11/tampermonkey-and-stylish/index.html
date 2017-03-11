@@ -10,7 +10,7 @@
     
     <title>
         
-            关于我 | 
+            tampermonkey-and-stylish | 
         
         能说汇道
     </title>
@@ -48,7 +48,7 @@
     <!-- The Open Graph protocol -->
     <meta property="og:url" content="http://nengtalk.com">
     <meta property="og:type" content="blog">
-    <meta property="og:title" content="关于我 | 能说汇道">
+    <meta property="og:title" content="tampermonkey-and-stylish | 能说汇道">
     <meta property="og:description" content="天文地理，大像蚂蚁，四书五经，蜡笔小新。一个挖坑不填的个人博客。">
     
 
@@ -219,6 +219,41 @@
 
                     <!-- Post TOC -->
 
+    
+    <!-- Back Button -->
+    <!--
+    <div class="material-back" id="backhome-div" tabindex="0">
+        <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon"
+           href="#" onclick="window.history.back();return false;"
+           target="_self"
+           role="button"
+           data-upgraded=",MaterialButton,MaterialRipple">
+            <i class="material-icons" role="presentation">arrow_back</i>
+            <span class="mdl-button__ripple-container">
+                <span class="mdl-ripple"></span>
+            </span>
+        </a>
+    </div>
+    -->
+
+    <!-- Left aligned menu below button -->
+    <button id="post-toc-trigger-btn"
+        class="mdl-button mdl-js-button mdl-button--icon">
+        <i class="material-icons">format_list_numbered</i>
+    </button>
+
+    <ul class="post-toc-wrap mdl-menu mdl-menu--bottom-left mdl-js-menu mdl-js-ripple-effect" for="post-toc-trigger-btn">
+        
+
+        <!--
+        <li class="mdl-menu__item">
+            Some Action
+        </li>
+        -->
+    </ul>
+
+
+
 
 <!-- Layouts -->
 
@@ -244,7 +279,7 @@
         
     
             <p class="article-headline-p">
-                关于我
+                tampermonkey-and-stylish
             </p>
         </div>
 
@@ -263,7 +298,7 @@
     <!-- Author Name & Date -->
     <div>
         <strong>凸凹熊</strong>
-        <span>3月 05, 2017</span>
+        <span>3月 11, 2017</span>
     </div>
 
     <div class="section-spacer"></div>
@@ -284,7 +319,7 @@
         </button>
         <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="article-functions-qrcode-button">
             <li class="mdl-menu__item">在其它设备中阅读本文章</li>
-            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMYAAADGCAAAAACs8KCBAAAB4klEQVR42u3aQW4CMQwFUO5/6XaLVJH5dkIZkpcVolPIY/EV23n8bLEeGBgYGBgYGBi3YTzi9fz839fjvyafme8BAwPjTMZFtAWMV19W/ZzkfzEwME5mJCHb28T4yeYeMDAwMIrhmLMxMDAw/j9w85L1ZTmKgYGBsbSIzTGvnk+2+PZaHAMD4wsZ84OB+de3mG9gYGDcklG+4hAMAFaF7BvvjGBgYHwVYzyGTIrPXoz2SmIMDIwzGdVrE+P381ZdjoyKWAwMjK0Z84FYRRYaamMYBgbGkYyZSK0WpXlTrxy4GBgY2zEuCsUictXhLwpoDAyMwxgJbKZM7f005XYbBgbGAYykxd9r+ufXOBZctsDAwNiakRer+fCyF+hRCw8DA+MYxsx2exuqtu0wMDAw8uJzZlTQG4sWRpgYGBhbM2aCMm/JJcOD8uUMDAyMYxi9hv4MOI9mDAwMjHys+KkxAAYGBkZv5e2wmetlC0aYGBgYGzF6h7lVW8wvdhTmGxgYGJsy8pCtNtrGpJn3MTAwzmT0QvZi0Ngqd8vtNgwMDIylQ8rqwfEtgYuBgXEAo9eAS6I5L2UxMDDOZOTDgISR/xy9AyIGBsZpjJmLXEko9w6LGBgYGN++MDAwMDAwMDA+un4BI0qmS/3g8XMAAAAASUVORK5CYII=">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPYAAAD2CAAAAADAeSUUAAAC3klEQVR42u3ay07DMBAF0P7/T8MWqaK5d5yKYp+sKpo4Pu5imMfj68jrgY2NjY2NjY2Njf2R7Ed8/bz/+dnnb5/fUmzx6f7f3pvsGRsbG/sEdr6JnPrb4eZ/zw8lOjhsbGzsA9hJ0Hp95ww5e3v9FDY2NjZ2kGzkm2hXwMbGxsZ+RwBLUo7XaUy7GjY2Njb2elEpQSapS3I0K80GbGxs7NPYK43ev/r8x/1tbGxs7I9ht1feKmgLQ3nqMtw5NjY29qbsZBxnpWHQFonubf1iY2Njn8Be2XobumZl/Zx6sQI2Njb2pux21PJ1ipIcQXsobQpUpCLY2NjYW7DX27oraUYb2JImATY2NvZp7DYNuGim3lSEStbPUyNsbGzsvdntttrRyVnYS1arS1rY2NjYx7DrwBCX+JMjTjDDISFsbGzsTdkrYzSz4s562tP+DNjY2NjY+ed2ECdvPLRFKGxsbOxz2HkQuisJmaUfyU6GRSVsbGzsjdizonyefiSpSFvSKn42bGxs7E3ZedBaH6DJ05hZu/cidcHGxsbemj1LCd4RAttCVVJywsbGxt6bPUse1gtPs/ZtHlyjSSVsbGzsLdh5sWY2XtMWktqgWAwDYWNjY2/Nzkdn8vJTUpBqj2DW4sXGxsY+jT0r2bdNhdkY0KwxgI2Njb03+65U4SINiFOdaPhm1DbAxsbG3pudJBKz9OAdx3FDKoKNjY29Efv1P/3JAbXhrS30t7u6IQPDxsbG/lfsFdJsQLMdtZwNa2JjY2OfyU6uvFUQBZW8uB+HrrqWho2Njf3P2bMgMSsD5Z/bZ6OmAjY2NvbW7HvDzHra8PoI2v1jY2Njn8POg9b6aOas/ZAP9GBjY2Njz16frNY2JNbTG2xsbGzsopk6emplGChZGRsbG/sc9qy5m4SWeoujOy+OFRsbG3tr9m0DjnGhJwlLSZDLkx9sbGzsXdnnXNjY2NjY2NjY2Ngfc30Dc/0qXNV0XPMAAAAASUVORK5CYII=">
         </ul>
     
 
@@ -323,7 +358,7 @@
 
     <!-- Share Weibo -->
     
-        <a class="post_share-link" href="http://service.weibo.com/share/share.php?appkey=&title=关于我&url=http://nengtalk.com//about/index.html&pic=&searchPic=false&style=simple" target="_blank">
+        <a class="post_share-link" href="http://service.weibo.com/share/share.php?appkey=&title=tampermonkey-and-stylish&url=http://nengtalk.com//2017/03/11/tampermonkey-and-stylish/index.html&pic=&searchPic=false&style=simple" target="_blank">
             <li class="mdl-menu__item">
                 分享到微博
             </li>
@@ -332,7 +367,7 @@
 
     <!-- Share Twitter -->
     
-        <a class="post_share-link" href="https://twitter.com/intent/tweet?text=关于我&url=http://nengtalk.com//about/index.html&via=凸凹熊" target="_blank">
+        <a class="post_share-link" href="https://twitter.com/intent/tweet?text=tampermonkey-and-stylish&url=http://nengtalk.com//2017/03/11/tampermonkey-and-stylish/index.html&via=凸凹熊" target="_blank">
             <li class="mdl-menu__item">
                 分享到 Twitter
             </li>
@@ -341,7 +376,7 @@
 
     <!-- Share Facebook -->
     
-        <a class="post_share-link" href="https://www.facebook.com/sharer/sharer.php?u=http://nengtalk.com//about/index.html" target="_blank">
+        <a class="post_share-link" href="https://www.facebook.com/sharer/sharer.php?u=http://nengtalk.com//2017/03/11/tampermonkey-and-stylish/index.html" target="_blank">
             <li class="mdl-menu__item">
                 分享到 Facebook
             </li>
@@ -350,7 +385,7 @@
 
     <!-- Share Google+ -->
     
-        <a class="post_share-link" href="https://plus.google.com/share?url=http://nengtalk.com//about/index.html" target="_blank">
+        <a class="post_share-link" href="https://plus.google.com/share?url=http://nengtalk.com//2017/03/11/tampermonkey-and-stylish/index.html" target="_blank">
             <li class="mdl-menu__item">
                 分享到 Google+
             </li>
@@ -374,8 +409,7 @@
                 <!-- Post Content -->
                 <div id="post-content" class="mdl-color-text--grey-700 mdl-card__supporting-text fade out">
     
-        <h1 id="随便先生"><a href="#随便先生" class="headerlink" title="随便先生"></a>随便先生</h1><p>测试页面</p>
-
+        
     
 
     
@@ -443,7 +477,7 @@
 <script>
     $('.btn_click_load').click(function() {  //click to load comments
         var disqus_config = function () {
-            this.page.url = 'http://nengtalk.com/about/index.html';  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.url = 'http://nengtalk.com/2017/03/11/tampermonkey-and-stylish/index.html';  // Replace PAGE_URL with your page's canonical URL variable
             this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
         };
         (function() { // DON'T EDIT BELOW THIS LINE
@@ -478,6 +512,14 @@
     <div class="section-spacer"></div>
 
     <!-- Next Nav -->
+    
+        <a href="/2017/03/08/account-security/" id="post_nav-older" class="next-content">
+            旧篇
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation">
+                <i class="material-icons">arrow_forward</i>
+            </button>
+        </a>
     
 </nav>
 
@@ -661,6 +703,14 @@ It will not impact the appearance and can give developers a lot of support :)
 </aside>
 
                     
+
+                    
+                        <!-- Footer Top Button -->
+                        <div class="toTop-wrap">
+    <a href="#top" class="toTop">
+        <i class="material-icons footer_top-i">expand_less</i>
+    </a>
+</div>
 
                     
 
