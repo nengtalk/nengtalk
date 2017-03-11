@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title><![CDATA[tampermonkey-and-stylish]]></title>
+      <title><![CDATA[如何在电脑上更加舒服的刷微博]]></title>
       <url>http://nengtalk.com/2017/03/11/tampermonkey-and-stylish/</url>
       <content type="html"></content>
       
@@ -315,7 +315,7 @@ $ git clone https://github.com/viosey/hexo-theme-material.git material</code></p
       
         <categories>
             
-            <category> 数码 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -339,7 +339,7 @@ $ git clone https://github.com/viosey/hexo-theme-material.git material</code></p
       
         <categories>
             
-            <category> 数码 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -408,7 +408,7 @@ $ git clone https://github.com/viosey/hexo-theme-material.git material</code></p
       
         <categories>
             
-            <category> 数码 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -429,7 +429,7 @@ $ git clone https://github.com/viosey/hexo-theme-material.git material</code></p
       
         <categories>
             
-            <category> 数码 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -454,7 +454,7 @@ $ git clone https://github.com/viosey/hexo-theme-material.git material</code></p
       
         <categories>
             
-            <category> 数码 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -553,7 +553,7 @@ $ git clone https://github.com/viosey/hexo-theme-material.git material</code></p
       
         <categories>
             
-            <category> 数码 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -591,18 +591,10 @@ var cpro_id = "u1843858";
       
         <categories>
             
-            <category> 数码 </category>
+            <category> 科技 </category>
             
         </categories>
         
-        
-        <tags>
-            
-            <tag> XBMC </tag>
-            
-            <tag> 盒子 </tag>
-            
-        </tags>
         
     </entry>
     
@@ -641,7 +633,7 @@ var cpro_id = "u1843858";
       
         <categories>
             
-            <category> 数码 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -781,7 +773,7 @@ var cpro_id = "u1843858";
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -857,7 +849,7 @@ var cpro_id = "u1843858";
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -887,18 +879,10 @@ var cpro_id = "u1843858";
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
-        
-        <tags>
-            
-            <tag> wordpress </tag>
-            
-            <tag> 教程 </tag>
-            
-        </tags>
         
     </entry>
     
@@ -938,20 +922,10 @@ var cpro_id = "u1843858";
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
-        
-        <tags>
-            
-            <tag> 手机 </tag>
-            
-            <tag> Apple </tag>
-            
-            <tag> Android </tag>
-            
-        </tags>
         
     </entry>
     
@@ -982,16 +956,10 @@ var cpro_id = "u1843858";
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
-        
-        <tags>
-            
-            <tag> Apple </tag>
-            
-        </tags>
         
     </entry>
     
@@ -1039,16 +1007,16 @@ var cpro_id = "u1843858";
       
         <categories>
             
-            <category> 学业 </category>
+            <category> 生活 </category>
             
         </categories>
         
         
         <tags>
             
-            <tag> 双学位 </tag>
-            
             <tag> 大学生 </tag>
+            
+            <tag> 双学位 </tag>
             
         </tags>
         
@@ -1078,7 +1046,7 @@ var cpro_id = "u1843858";
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -1118,7 +1086,7 @@ var cpro_id = "u1843858";
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -1235,7 +1203,7 @@ int main(int argc, char *argv[])
       
         <categories>
             
-            <category> 学业 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -1283,7 +1251,7 @@ int main(int argc, char *argv[])
       
         <categories>
             
-            <category> 数码 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -1407,18 +1375,10 @@ int main(int argc, char *argv[])
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
-        
-        <tags>
-            
-            <tag> wordpress </tag>
-            
-            <tag> 教程 </tag>
-            
-        </tags>
         
     </entry>
     
@@ -1459,7 +1419,7 @@ margin-right:auto;
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -1507,7 +1467,7 @@ query_posts($args);
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -1540,7 +1500,7 @@ query_posts($args);
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -1568,7 +1528,7 @@ query_posts($args);
       
         <categories>
             
-            <category> 互联网 </category>
+            <category> 科技 </category>
             
         </categories>
         
@@ -1595,16 +1555,16 @@ query_posts($args);
       
         <categories>
             
-            <category> 数码 </category>
+            <category> 科技 </category>
             
         </categories>
         
         
         <tags>
             
-            <tag> 大学生 </tag>
-            
             <tag> iPad </tag>
+            
+            <tag> 大学生 </tag>
             
             <tag> 应用 </tag>
             
@@ -1623,7 +1583,7 @@ query_posts($args);
       
         <categories>
             
-            <category> 数码 </category>
+            <category> 科技 </category>
             
         </categories>
         
